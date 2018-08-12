@@ -1,0 +1,1001 @@
+customer id,Name,Personal status ,Present residence since,Present employment since,Job,age,Housing,Telephone,foreign worker
+AB-100151402,Aaron Bergman,male   : single,4,8,skilled employee ,67,own,yes,yes
+JR-162107,Justin Ritter,female : divorced/separated,2,2,skilled employee ,22,own,none,yes
+CR-127307,Craig Reiter,male   : single,3,4,unskilled ,49,own,none,yes
+KM-1637548,Katherine Murray,male   : single,4,4,skilled employee ,45,for free,none,yes
+RH-9495111,Rick Hansen,male   : single,4,2,skilled employee ,53,for free,none,yes
+JM-156557,Jim Mitchum,male   : single,4,2,unskilled ,35,for free,yes,yes
+TS-2134092,Toby Swindell,male   : single,4,8,skilled employee ,53,own,none,yes
+MB-1808592,Mick Brown,male   : single,2,2,management,35,rent,yes,yes
+AB-100151404,Aaron Bergman,male   : divorced/separated,4,4,unskilled ,61,own,none,yes
+AJ-107801,Anthony Jacobs,male   : married/widowed,2,0,management,28,own,none,yes
+MM-7260110,Magdelene Morse,female : divorced/separated,1,1,skilled employee ,25,rent,none,yes
+VF-2171518,Vicky Freymann,female : divorced/separated,4,1,skilled employee ,24,rent,none,yes
+PF-1912027,Peter Fuller,female : divorced/separated,1,2,skilled employee ,22,own,yes,yes
+BP-1118545,Ben Peterman,male   : single,4,8,unskilled ,60,own,none,yes
+PJ-1883564,Patrick Jones,female : divorced/separated,4,2,skilled employee ,28,rent,none,yes
+JS-156857,Jim Sink,female : divorced/separated,2,2,unskilled ,32,own,none,yes
+RH-9555129,Ritsa Hightower,male   : single,4,8,skilled employee ,53,own,none,yes
+AB-600103,Ann Blume,male   : single,3,1,skilled employee ,25,own,none,yes
+JK-1532527,Jason Klamczynski,female : divorced/separated,2,8,management,44,for free,yes,yes
+LB-16795139,Laurel Beltran,male   : single,2,8,skilled employee ,31,own,yes,yes
+NP-1832582,Naresj Patel,male   : single,4,2,skilled employee ,48,own,yes,yes
+VD-2167039,Valerie Dominguez,male   : single,3,2,skilled employee ,44,rent,none,yes
+PB-19210127,Phillip Breyer,male   : single,3,1,unskilled ,48,rent,none,no
+EB-1411048,Eugene Barchas,male   : single,4,1,skilled employee ,44,own,none,yes
+AH-100301406,Aaron Hawkins,male   : married/widowed,1,2,skilled employee ,26,own,none,no
+BP-1123058,Benjamin Patterson,male   : single,2,2,unskilled ,36,own,yes,yes
+RR-1952536,Rick Reed,male   : married/widowed,4,8,unskilled ,39,own,none,yes
+BS-1136545,Bill Shonely,female : divorced/separated,3,2,skilled employee ,42,rent,none,yes
+AH-100301404,Aaron Hawkins,male   : single,2,2,skilled employee ,34,own,none,yes
+DP-131057,Dave Poirier,male   : single,4,8,skilled employee ,63,own,yes,yes
+AH-1003033,Aaron Hawkins,male   : married/widowed,3,1,skilled employee ,36,own,yes,yes
+PO-18865139,Patrick O'Donnell,male   : single,2,2,skilled employee ,27,own,none,yes
+DL-128657,Dan Lawera,male   : single,2,2,skilled employee ,30,own,yes,yes
+JB-1600059,Joy Bell-,male   : single,4,8,unskilled ,57,rent,none,yes
+BF-1100558,Barry Franz,female : divorced/separated,1,1,management,33,own,yes,yes
+VG-2180558,Vivek Grady,male   : single,2,1,unskilled ,25,own,none,yes
+GT-14710139,Greg Tran,male   : single,3,2,skilled employee ,31,for free,yes,yes
+ZC-2191048,Zuschuss Carroll,male   : single,2,2,skilled employee ,37,own,none,yes
+AH-100301408,Aaron Hawkins,male   : single,2,2,skilled employee ,37,own,yes,yes
+EB-1384045,Ellis Ballard,male   : single,3,2,skilled employee ,24,own,none,yes
+AP-1091527,Arthur Prichep,male   : single,2,8,management,30,own,none,yes
+SW-2027558,Scott Williamson,male   : divorced/separated,1,2,skilled employee ,26,own,yes,yes
+JH-15820141,John Huston,male   : single,4,2,unskilled ,44,own,yes,yes
+TG-1164060,Trudy Glocke,male   : married/widowed,4,4,skilled employee ,24,rent,none,yes
+DG-330087,Deirdre Greer,female : divorced/separated,4,8,unskilled ,58,for free,none,yes
+SG-2047058,Sheri Gordon,female : divorced/separated,4,1,management,35,own,none,yes
+GP-1474058,Guy Phonely,male   : single,4,8,skilled employee ,39,own,none,yes
+MW-182207,Mitch Webber,female : divorced/separated,2,0,unemployed,23,rent,yes,yes
+CS-1246011,Chuck Sachs,male   : single,4,2,unskilled ,39,own,none,yes
+MS-1798048,Michael Stewart,female : divorced/separated,2,2,skilled employee ,28,own,none,yes
+KC-1667548,Kimberly Carter,male   : single,2,1,unskilled ,29,own,none,yes
+DB-1340527,Denny Blanton,male   : single,2,8,management,30,own,yes,yes
+AS-100451408,Aaron Smayling,male   : single,2,2,skilled employee ,25,own,none,yes
+DK-13090120,Dave Kipp,male   : single,1,2,skilled employee ,31,own,yes,yes
+CS-1184558,Cari Sayre,male   : single,4,8,skilled employee ,57,for free,yes,yes
+EM-1420082,Evan Minnotte,male   : single,2,2,unskilled ,26,own,none,yes
+DW-3480137,Dianna Wilson,male   : single,1,0,management,52,own,yes,yes
+AS-1022527,Alan Schoenberger,female : divorced/separated,2,2,skilled employee ,31,own,none,yes
+ST-2053093,Shui Tom,female : divorced/separated,2,8,management,23,own,none,yes
+BW-106533,Barry Weirich,female : divorced/separated,4,1,unskilled ,23,rent,yes,yes
+LA-1678059,Laura Armstrong,male   : married/widowed,1,2,skilled employee ,27,own,yes,yes
+AB-10150139,Aimee Bixby,male   : single,4,8,skilled employee ,50,own,yes,yes
+JH-158207,John Huston,male   : single,4,8,management,61,for free,yes,yes
+AS-100451402,Aaron Smayling,male   : single,2,2,skilled employee ,25,own,yes,yes
+BE-1141048,Bobby Elias,female : divorced/separated,4,1,skilled employee ,26,own,yes,yes
+SZ-2003527,Sam Zeldin,male   : single,4,8,skilled employee ,48,own,yes,yes
+RM-1937558,Raymond Messe,female : divorced/separated,2,1,skilled employee ,29,own,none,yes
+HG-1484545,Harry Greene,male   : married/widowed,1,2,skilled employee ,22,own,none,yes
+DP-310586,Dave Poirier,male   : single,4,2,skilled employee ,37,for free,yes,yes
+AS-100451404,Aaron Smayling,female : divorced/separated,4,2,skilled employee ,25,own,none,yes
+JB-1600048,Joy Bell-,female : divorced/separated,2,2,skilled employee ,30,own,none,yes
+AM-1070559,Anne McFarland,male   : single,2,8,unskilled ,46,rent,yes,yes
+AB-25586,Alejandro Ballentine,male   : single,4,8,management,51,for free,yes,yes
+RP-192707,Rachel Payne,female : divorced/separated,1,4,unskilled ,41,own,none,yes
+BK-1126011,Berenike Kampe,male   : single,4,8,management,40,own,yes,yes
+JM-1525027,Janet Martin,male   : single,4,8,management,66,for free,none,yes
+NZ-1856545,Nick Zandusky,male   : single,3,1,skilled employee ,34,own,none,yes
+SC-20695102,Steve Chapman,male   : single,4,4,skilled employee ,51,own,none,yes
+NC-186257,Noah Childs,male   : single,2,2,unskilled ,39,own,none,yes
+NF-183858,Natalie Fritzler,male   : married/widowed,1,1,skilled employee ,22,own,none,yes
+NZ-185657,Nick Zandusky,female : divorced/separated,1,1,skilled employee ,44,own,yes,yes
+PM-1894045,Paul MacIntyre,male   : single,3,8,skilled employee ,47,own,yes,yes
+MZ-1733545,Maria Zettner,female : divorced/separated,4,2,unskilled ,24,rent,none,yes
+HM-498033,Henry MacAllister,female : divorced/separated,4,8,unskilled ,58,own,yes,yes
+RW-195407,Rick Wilson,male   : single,4,8,unskilled ,52,own,none,yes
+LH-1715545,Logan Haushalter,female : divorced/separated,2,2,management,29,own,yes,yes
+FH-1436582,Fred Hopkins,female : divorced/separated,1,1,skilled employee ,27,own,none,yes
+KM-1666048,Khloe Miller,male   : single,4,2,skilled employee ,47,for free,yes,yes
+PO-1886545,Patrick O'Donnell,male   : single,3,4,management,30,own,yes,yes
+AS-100451406,Aaron Smayling,male   : single,3,4,skilled employee ,28,own,none,yes
+AB-1006028,Adam Bellavance,male   : single,4,8,skilled employee ,56,own,none,yes
+DB-130607,Dave Brooks,male   : single,3,8,skilled employee ,54,own,none,yes
+VM-2168591,Valerie Mitchum,female : divorced/separated,3,8,unskilled ,33,own,none,yes
+DM-1352548,Don Miller,male   : single,4,8,skilled employee ,20,rent,none,yes
+NM-18520120,Neoma Murray,male   : single,4,8,skilled employee ,54,own,yes,yes
+LC-168857,Lena Creighton,male   : single,4,1,skilled employee ,58,rent,yes,yes
+RO-1978027,Rose O'Brian,female : divorced/separated,2,4,skilled employee ,61,own,none,yes
+EM-1406548,Erin Mull,male   : single,4,2,skilled employee ,34,own,none,yes
+ON-1871545,Odella Nelson,male   : single,4,8,skilled employee ,36,own,none,yes
+VS-2182027,Vivek Sundaresam,male   : single,4,4,management,36,rent,yes,yes
+CM-121157,Chad McGuire,male   : married/widowed,4,8,unskilled ,41,rent,none,yes
+AB-100601404,Adam Bellavance,male   : single,4,4,skilled employee ,24,rent,none,yes
+AB-100601406,Adam Bellavance,female : divorced/separated,2,2,skilled employee ,24,own,none,yes
+JK-153257,Jason Klamczynski,male   : single,3,4,skilled employee ,35,rent,yes,yes
+RP-1927045,Rachel Payne,male   : married/widowed,4,1,skilled employee ,26,rent,yes,yes
+DW-1354078,Don Weiss,male   : single,3,2,management,39,own,yes,yes
+AB-100601408,Adam Bellavance,male   : single,4,8,management,39,own,yes,yes
+GM-1444037,Gary McGarr,male   : single,2,4,skilled employee ,32,own,none,yes
+SV-2081558,Stuart Van,female : divorced/separated,2,1,skilled employee ,30,own,yes,no
+MM-1792027,Michael Moore,male   : married/widowed,2,9,skilled employee ,35,own,yes,yes
+JK-1612059,Julie Kriz,male   : divorced/separated,2,9,skilled employee ,31,own,none,yes
+EM-14200130,Evan Minnotte,female : divorced/separated,4,1,skilled employee ,23,rent,yes,yes
+AB-100601402,Adam Bellavance,male   : single,3,4,unskilled ,28,rent,none,yes
+PM-1894059,Paul MacIntyre,female : divorced/separated,2,2,skilled employee ,25,own,yes,yes
+AT-1043582,Alyssa Tate,male   : married/widowed,1,9,skilled employee ,35,own,none,yes
+AB-1001527,Aaron Bergman,male   : single,1,9,skilled employee ,47,own,yes,yes
+PV-1898518,Paul Van Hugh,female : divorced/separated,3,4,management,30,own,yes,yes
+SB-2029064,Sean Braxton,female : divorced/separated,3,1,skilled employee ,27,rent,none,no
+SM-10005116,Sally Matthias,female : divorced/separated,4,2,skilled employee ,23,own,none,yes
+KH-1633059,Katharine Harms,male   : divorced/separated,3,4,management,36,own,yes,yes
+MP-181757,Mike Pelletier,female : divorced/separated,2,2,skilled employee ,25,own,yes,yes
+LH-1702027,Lisa Hazard,female : divorced/separated,2,9,management,41,rent,yes,yes
+CR-126257,Corey Roper,male   : single,2,2,unskilled ,24,rent,none,yes
+NC-1862511,Noah Childs,male   : single,4,9,skilled employee ,63,for free,yes,yes
+GM-1468091,Greg Matthias,female : divorced/separated,3,1,skilled employee ,27,rent,none,yes
+RA-1994545,Ryan Akin,male   : single,2,2,skilled employee ,30,own,none,yes
+DB-1306048,Dave Brooks,male   : married/widowed,2,2,unskilled ,40,own,none,yes
+RF-197357,Roland Fjeld,male   : single,2,2,skilled employee ,30,own,none,yes
+JH-1582048,John Huston,male   : single,2,0,management,34,own,yes,yes
+DM-1295551,Dario Medina,female : divorced/separated,2,2,skilled employee ,29,own,none,yes
+BE-1133582,Bill Eplett,female : divorced/separated,2,4,skilled employee ,24,own,none,yes
+SO-2033527,Sean O'Donnell,male   : single,3,2,skilled employee ,29,own,yes,yes
+DK-12835120,Damala Kotsonis,male   : single,3,1,unskilled ,27,own,none,yes
+LC-7050110,Liz Carlisle,male   : single,4,2,skilled employee ,47,for free,none,yes
+CG-125207,Claire Gute,female : divorced/separated,4,4,skilled employee ,21,own,yes,yes
+HG-1502559,Hunter Glantz,female : divorced/separated,2,9,skilled employee ,38,own,yes,yes
+AD-1018059,Alan Dominguez,male   : single,2,2,skilled employee ,27,own,none,yes
+BP-11155139,Becky Pak,male   : single,3,3,unskilled ,66,own,none,yes
+AA-10480130,Andrew Allen,male   : single,2,4,skilled employee ,35,own,yes,yes
+RL-196157,Rob Lucas,female : divorced/separated,2,3,unskilled ,44,rent,yes,yes
+SW-2024559,Scot Wooten,male   : married/widowed,2,1,unemployed,27,own,none,no
+BW-1111027,Bart Watters,female : divorced/separated,1,1,management,30,own,yes,yes
+YC-21895139,Yoseph Carroll,male   : single,2,3,management,27,own,none,yes
+JM-1558082,Jill Matthias,male   : single,2,3,skilled employee ,22,own,none,yes
+MZ-733513,Maria Zettner,female : divorced/separated,4,1,skilled employee ,23,own,yes,yes
+JF-15295120,Jason Fortune-,male   : single,2,4,skilled employee ,30,own,none,yes
+DJ-3510137,Don Jones,female : divorced/separated,4,9,skilled employee ,39,own,yes,yes
+MF-1825045,Monica Federle,female : divorced/separated,3,4,skilled employee ,51,own,yes,yes
+TC-2129545,Toby Carlisle,male   : single,2,3,skilled employee ,28,own,none,yes
+CP-1234058,Christine Phan,male   : single,4,9,skilled employee ,46,own,none,yes
+EH-1412545,Eugene Hildebrand,male   : single,4,9,skilled employee ,42,for free,yes,yes
+NC-183407,Nat Carroll,male   : single,4,3,skilled employee ,38,own,yes,no
+JS-1603059,Joy Smith,male   : single,1,3,skilled employee ,24,own,none,yes
+AM-10360139,Alice McCarthy,female : divorced/separated,4,9,skilled employee ,29,rent,none,yes
+JF-1519021,Jamie Frazer,male   : single,4,4,management,36,rent,yes,yes
+AB-100157,Aaron Bergman,female : divorced/separated,4,3,skilled employee ,20,rent,none,yes
+JG-15160139,James Galang,male   : single,4,9,skilled employee ,48,own,none,no
+AH-100751406,Adam Hart,male   : married/widowed,1,9,unskilled ,45,own,none,yes
+AG-1033059,Alex Grayson,male   : single,3,4,skilled employee ,38,own,yes,yes
+NF-1847548,Neil Französisch,male   : single,2,3,unskilled ,34,own,none,yes
+DR-129407,Daniel Raglin,male   : single,4,9,skilled employee ,36,own,yes,yes
+NB-1865548,Nona Balk,female : divorced/separated,1,1,skilled employee ,30,own,none,yes
+NM-1844527,Nathan Mautz,male   : single,3,4,skilled employee ,36,own,yes,yes
+TA-213857,Tom Ashbrook,male   : single,4,0,management,70,for free,yes,yes
+SC-20380102,Shahid Collister,male   : single,4,9,skilled employee ,36,own,none,yes
+PA-9060117,Pete Armstrong,male   : single,2,3,skilled employee ,32,own,yes,yes
+RB-19570120,Rob Beeghly,female : divorced/separated,2,0,skilled employee ,33,own,none,yes
+AH-100751404,Adam Hart,female : divorced/separated,1,1,skilled employee ,20,own,none,yes
+LH-1675036,Larry Hughes,female : divorced/separated,4,4,skilled employee ,25,rent,yes,yes
+AH-100751402,Adam Hart,male   : divorced/separated,4,9,skilled employee ,31,own,yes,yes
+KB-1658527,Ken Black,male   : single,3,9,skilled employee ,33,rent,none,yes
+AH-1007523,Adam Hart,female : divorced/separated,1,3,skilled employee ,26,own,yes,yes
+MZ-751560,Mary Zewe,female : divorced/separated,2,0,management,34,own,yes,yes
+DM-1334558,Denise Monton,male   : single,2,3,skilled employee ,33,own,none,no
+CA-1196566,Carol Adams,male   : single,1,1,skilled employee ,26,own,none,yes
+SC-20305120,Sean Christensen,female : divorced/separated,1,0,management,53,own,yes,yes
+MH-1811558,Mick Hernandez,male   : divorced/separated,1,3,skilled employee ,42,own,none,yes
+KS-163007,Karen Seio,male   : single,4,9,skilled employee ,52,own,none,yes
+BG-1174078,Bruce Geld,male   : single,2,4,management,31,rent,yes,yes
+CR-2625108,Corey Roper,male   : single,4,9,skilled employee ,65,own,none,yes
+DK-1309027,Dave Kipp,male   : divorced/separated,1,1,skilled employee ,28,own,none,yes
+JL-1583527,John Lee,male   : divorced/separated,2,3,management,30,own,yes,yes
+AP-1072058,Anne Pryor,male   : single,2,3,unskilled ,40,own,none,yes
+CR-1282058,Cyra Reiten,male   : single,4,3,skilled employee ,50,own,yes,yes
+BF-110807,Bart Folk,male   : single,4,9,skilled employee ,36,own,yes,yes
+JM-15265102,Janet Molinari,male   : single,2,3,skilled employee ,31,own,none,yes
+TW-2102545,Tamara Willingham,female : divorced/separated,4,9,management,74,for free,yes,yes
+RB-1933045,Randy Bradley,male   : single,3,0,unemployed,68,for free,yes,yes
+AH-100751408,Adam Hart,male   : married/widowed,1,4,skilled employee ,20,own,none,yes
+AB-10060117,Adam Bellavance,female : divorced/separated,4,3,skilled employee ,33,own,yes,yes
+JR-567038,Jim Radford,male   : single,3,3,management,54,own,yes,yes
+MD-1735028,Maribeth Dona,male   : single,4,4,unskilled ,34,for free,none,yes
+EB-13840139,Ellis Ballard,male   : single,2,3,skilled employee ,36,own,yes,yes
+JL-58359,John Lee,male   : married/widowed,2,4,skilled employee ,29,rent,none,yes
+EP-1391559,Emily Phan,male   : single,4,3,skilled employee ,21,rent,none,yes
+MS-17770139,Maxwell Schwartz,female : divorced/separated,3,9,management,34,own,yes,yes
+CM-1265545,Corinna Mitchell,female : divorced/separated,1,3,skilled employee ,28,own,yes,yes
+JC-610575,Julie Creighton,female : divorced/separated,4,1,skilled employee ,27,rent,none,yes
+GB-145307,George Bell,male   : single,4,9,skilled employee ,36,for free,yes,yes
+JH-161805,Justin Hirsh,male   : divorced/separated,3,9,management,40,own,yes,yes
+MT-807038,Michelle Tran,male   : single,2,9,skilled employee ,52,own,yes,yes
+AB-1010558,Adrian Barton,male   : married/widowed,3,3,unskilled ,27,own,none,yes
+CV-280572,Cynthia Voltz,male   : single,4,4,skilled employee ,26,own,none,yes
+NH-1861092,Nicole Hansen,male   : married/widowed,4,4,skilled employee ,21,rent,none,yes
+HJ-1487527,Heather Jas,male   : single,1,9,unskilled ,38,own,none,yes
+JL-1517518,James Lanier,male   : single,4,9,management,38,for free,yes,yes
+MY-1829593,Muhammed Yedwab,male   : single,4,9,skilled employee ,43,own,yes,yes
+KC-1654093,Kelly Collister,male   : single,3,4,skilled employee ,26,own,none,yes
+CS-1246093,Chuck Sachs,male   : married/widowed,2,3,unskilled ,21,own,none,yes
+HA-1492027,Helen Andreada,male   : single,2,4,skilled employee ,55,own,none,no
+MT-1781545,Meg Tillman,male   : single,2,3,skilled employee ,33,own,none,yes
+FW-1439545,Fred Wasserman,female : divorced/separated,4,10,unskilled ,45,own,yes,yes
+BH-1171048,Brosina Hoffman,male   : single,4,0,skilled employee ,50,own,yes,yes
+DK-1289559,Dana Kaydos,male   : single,4,10,management,66,own,yes,yes
+KD-1627018,Karen Daniels,male   : single,2,10,skilled employee ,51,own,yes,yes
+SC-208458,Sung Chung,female : divorced/separated,3,5,unskilled ,39,own,none,yes
+CY-1274582,Craig Yedwab,male   : single,1,5,skilled employee ,31,own,yes,yes
+HL-150407,Hunter Lopez,male   : single,2,3,skilled employee ,23,own,yes,yes
+CT-1199566,Carol Triggs,male   : divorced/separated,2,3,unskilled ,24,rent,none,yes
+CC-12370139,Christopher Conant,female : divorced/separated,4,3,skilled employee ,64,own,yes,yes
+GR-456072,Georgia Rosenberg,male   : married/widowed,1,1,unskilled ,26,own,none,yes
+TT-2107058,Ted Trevino,female : divorced/separated,4,3,skilled employee ,23,rent,yes,yes
+PO-19195120,Phillina Ober,male   : single,2,3,skilled employee ,30,own,none,yes
+ED-13885144,Emily Ducich,male   : single,4,3,skilled employee ,32,own,yes,yes
+AP-1091559,Arthur Prichep,male   : single,2,3,skilled employee ,30,own,yes,yes
+TM-2149031,Tony Molinari,male   : single,2,3,skilled employee ,27,own,none,yes
+AW-1084091,Anthony Witt,male   : single,2,5,skilled employee ,27,own,yes,yes
+SG-10605107,Speros Goranitis,male   : single,4,10,management,53,for free,yes,yes
+BM-1178582,Bryan Mills,male   : single,2,5,skilled employee ,22,own,none,yes
+DK-1337582,Dennis Kane,male   : single,1,1,skilled employee ,22,for free,none,yes
+AS-100901406,Adam Shillingsburg,male   : single,2,3,skilled employee ,26,own,none,yes
+AS-100901402,Adam Shillingsburg,male   : single,4,10,unskilled ,51,for free,none,yes
+SF-10200134,Sarah Foster,male   : single,1,5,skilled employee ,35,own,none,yes
+JW-5220111,Jane Waco,male   : married/widowed,2,3,unskilled ,25,own,none,yes
+CC-1210082,Chad Cunningham,male   : single,1,5,unskilled ,42,own,none,yes
+RD-1993092,Russell D'Ascenzo,male   : single,2,0,management,30,own,none,yes
+BP-123022,Benjamin Patterson,male   : single,2,0,unemployed,23,own,yes,yes
+SA-20830139,Sue Ann Reed,male   : divorced/separated,2,10,unskilled ,61,rent,none,yes
+EM-1381058,Eleni McCrary,female : divorced/separated,2,3,skilled employee ,35,own,none,yes
+CS-12175130,Charles Sheldon,male   : single,3,10,skilled employee ,39,own,none,yes
+JD-16060120,Julia Dunbar,female : divorced/separated,2,10,skilled employee ,29,own,none,yes
+GH-1466527,Greg Hansen,male   : single,2,5,skilled employee ,51,own,none,yes
+CM-1193527,Carlos Meador,male   : single,4,10,skilled employee ,24,for free,none,yes
+JB-1600093,Joy Bell-,female : divorced/separated,2,3,skilled employee ,27,own,none,yes
+RB-9465108,Rick Bensley,female : divorced/separated,3,3,unskilled ,35,own,none,yes
+RB-1979518,Ross Baird,male   : single,1,5,skilled employee ,25,own,yes,yes
+PO-191957,Phillina Ober,male   : single,4,10,skilled employee ,52,own,none,yes
+TS-212057,Thomas Seio,male   : single,1,3,skilled employee ,35,rent,none,no
+MV-8190117,Mike Vittorini,male   : single,2,3,skilled employee ,26,own,none,yes
+BD-11560139,Brendan Dodson,female : divorced/separated,4,0,skilled employee ,22,rent,none,yes
+PS-1876059,Pamela Stobb,female : divorced/separated,4,5,unskilled ,39,own,yes,yes
+FM-1421551,Filia McAdams,female : divorced/separated,2,3,unskilled ,46,own,none,yes
+CA-1277558,Cynthia Arntzen,female : divorced/separated,2,3,skilled employee ,24,own,none,yes
+CD-1279048,Cynthia Delaney,male   : single,3,3,skilled employee ,35,own,none,yes
+NL-1831092,Nancy Lomonaco,male   : single,1,5,skilled employee ,24,own,yes,yes
+TB-2105545,Ted Butterfield,male   : single,1,3,unskilled ,27,own,none,yes
+KD-1649527,Keith Dawkins,male   : single,2,3,unskilled ,35,own,none,yes
+EH-412557,Eugene Hildebrand,male   : divorced/separated,1,3,skilled employee ,29,for free,none,yes
+KB-1660058,Ken Brennan,female : divorced/separated,4,1,skilled employee ,23,own,yes,yes
+MG-1769564,Maureen Gnade,female : divorced/separated,4,0,unskilled ,57,own,none,yes
+VF-21715102,Vicky Freymann,male   : single,2,3,skilled employee ,27,own,none,yes
+BP-11290113,Beth Paige,female : divorced/separated,4,10,skilled employee ,55,own,none,yes
+HZ-49504,Henia Zydlo,male   : single,4,10,management,36,for free,yes,yes
+EM-1382566,Elizabeth Moffitt,female : divorced/separated,4,10,unskilled ,57,for free,none,yes
+AS-100901408,Adam Shillingsburg,male   : single,4,10,unskilled ,32,own,none,no
+BS-1180059,Bryan Spruell,male   : single,3,10,skilled employee ,37,own,none,yes
+DV-1346539,Dianna Vittorini,male   : single,4,10,skilled employee ,36,own,none,yes
+MB-173057,Maria Bertelson,female : divorced/separated,3,1,skilled employee ,38,own,yes,yes
+PC-19000120,Pauline Chand,male   : divorced/separated,4,10,management,45,own,yes,no
+CA-1231045,Christine Abelman,male   : single,2,10,skilled employee ,25,own,none,yes
+MB-1808545,Mick Brown,male   : single,3,5,skilled employee ,32,own,none,no
+AS-100901404,Adam Shillingsburg,female : divorced/separated,4,5,skilled employee ,37,rent,yes,yes
+DB-3660107,Duane Benoit,male   : single,4,0,management,36,for free,yes,yes
+BG-1174018,Bruce Geld,male   : single,4,5,skilled employee ,28,own,none,yes
+KB-1631578,Karl Braun,male   : divorced/separated,1,1,unskilled ,34,own,yes,yes
+PK-190757,Pete Kriz,male   : single,2,3,skilled employee ,32,own,none,yes
+CS-121757,Charles Sheldon,female : divorced/separated,2,3,skilled employee ,26,own,none,yes
+AF-1088545,Art Foster,male   : divorced/separated,4,10,unskilled ,49,own,yes,yes
+SJ-2050045,Shirley Jackson,female : divorced/separated,4,1,skilled employee ,32,own,none,yes
+DM-1295545,Dario Medina,male   : single,4,3,management,29,rent,yes,yes
+CC-1261048,Corey Catlett,male   : single,4,10,skilled employee ,23,rent,yes,yes
+BE-114557,Brad Eason,male   : single,2,3,skilled employee ,50,own,none,yes
+TG-2164014,Trudy Glocke,male   : single,4,5,unskilled ,49,own,none,yes
+VM-2168545,Valerie Mitchum,male   : single,4,10,skilled employee ,63,own,none,yes
+SC-2069539,Steve Chapman,male   : divorced/separated,2,1,skilled employee ,37,own,yes,yes
+SN-2056097,Skye Norling,female : divorced/separated,1,1,unskilled ,35,own,yes,yes
+CD-122807,Christina DeMoss,male   : single,3,5,skilled employee ,26,own,none,yes
+CC-1210045,Chad Cunningham,male   : single,4,0,management,31,for free,yes,yes
+BG-1103544,Barry Gonzalez,female : divorced/separated,4,3,skilled employee ,49,own,yes,yes
+CC-125507,Clay Cheatham,male   : married/widowed,4,1,skilled employee ,48,own,none,yes
+AB-101057,Adrian Barton,male   : married/widowed,2,3,skilled employee ,26,own,yes,no
+SV-2078559,Stewart Visinsky,male   : married/widowed,4,1,management,28,rent,yes,yes
+HW-1493545,Helen Wasserman,female : divorced/separated,4,10,management,44,for free,yes,yes
+AS-1028558,Alejandro Savely,male   : single,4,10,skilled employee ,56,for free,none,yes
+LD-1685545,Lela Donovan,male   : divorced/separated,2,10,management,46,own,none,yes
+NS-1850528,Neola Schneider,female : divorced/separated,2,1,skilled employee ,26,own,yes,yes
+CM-1271582,Craig Molinari,female : divorced/separated,4,1,skilled employee ,20,rent,none,yes
+VG-2180527,Vivek Grady,male   : single,2,10,unskilled ,45,own,none,no
+JD-606049,Julia Dunbar,male   : single,4,3,skilled employee ,43,own,yes,yes
+MG-17680144,Maureen Gastineau,male   : single,2,5,skilled employee ,32,own,yes,yes
+CD-1228058,Christina DeMoss,female : divorced/separated,4,0,unemployed,54,own,yes,yes
+DB-13210139,Dean Braden,female : divorced/separated,1,3,skilled employee ,42,own,yes,yes
+CS-118608,Cari Schnelling,male   : single,2,5,unskilled ,37,own,none,yes
+AF-1088558,Art Foster,male   : single,3,5,skilled employee ,49,own,yes,yes
+BN-11470130,Brad Norvell,male   : single,2,3,skilled employee ,44,for free,none,yes
+GG-1465045,Greg Guthrie,male   : divorced/separated,2,3,skilled employee ,33,own,none,yes
+BS-166560,Brian Stugart,female : divorced/separated,4,5,unskilled ,24,rent,none,yes
+AC-1045058,Amy Cox,male   : married/widowed,3,1,unskilled ,33,own,yes,yes
+CK-1220564,Chloris Kastensmidt,female : divorced/separated,4,3,skilled employee ,24,own,none,yes
+JD-16150139,Justin Deggeller,male   : married/widowed,4,3,unskilled ,22,rent,none,yes
+CC-2550137,Clay Cheatham,male   : single,4,0,unemployed,40,for free,yes,yes
+MS-17830139,Melanie Seite,male   : single,1,3,skilled employee ,25,own,none,yes
+GT-14710120,Greg Tran,female : divorced/separated,4,1,skilled employee ,26,own,none,yes
+CL-1270058,Craig Leslie,male   : married/widowed,3,5,unskilled ,25,own,none,yes
+MM-1792045,Michael Moore,male   : single,2,1,unskilled ,29,own,none,no
+CM-1216093,Charles McCrossin,male   : single,4,10,skilled employee ,31,own,none,yes
+DB-1306027,Dave Brooks,male   : single,3,3,unskilled ,38,own,none,yes
+JW-522087,Jane Waco,female : divorced/separated,4,3,unskilled ,48,own,yes,yes
+BN-1147082,Brad Norvell,male   : single,2,3,skilled employee ,32,own,none,yes
+JC-157757,John Castell,female : divorced/separated,4,10,unskilled ,27,own,none,yes
+HL-1504093,Hunter Lopez,male   : married/widowed,2,0,management,28,own,none,yes
+LH-1690018,Lena Hernandez,male   : divorced/separated,3,1,skilled employee ,32,own,none,yes
+DV-1304559,Darrin Van Huff,male   : single,1,5,management,34,for free,yes,yes
+BT-1153058,Bradley Talbott,male   : single,2,3,skilled employee ,28,own,none,yes
+BM-165060,Brian Moss,female : divorced/separated,3,3,skilled employee ,36,own,none,yes
+MG-1820558,Mitch Gastineau,male   : single,4,5,unskilled ,39,own,none,no
+FC-1424528,Frank Carlisle,male   : single,4,10,skilled employee ,49,rent,yes,yes
+TT-2122051,Thomas Thornton,female : divorced/separated,3,5,skilled employee ,34,own,yes,yes
+CY-1274558,Craig Yedwab,male   : single,2,10,skilled employee ,31,own,none,yes
+SJ-2021582,Sarah Jordon,male   : single,4,10,skilled employee ,28,own,none,yes
+PB-1880593,Patrick Bzostek,male   : single,4,0,management,75,for free,yes,yes
+RW-1969027,Robert Waldorf,female : divorced/separated,2,3,skilled employee ,30,own,none,yes
+DB-3360146,Dennis Bolton,female : divorced/separated,2,1,management,24,own,none,yes
+DK-1315048,David Kendrick,female : divorced/separated,4,3,unskilled ,24,rent,none,yes
+RW-9540117,Rick Wilson,male   : single,4,10,skilled employee ,23,rent,none,yes
+PS-1904527,Penelope Sewall,male   : divorced/separated,4,3,management,44,rent,yes,yes
+AB-101051402,Adrian Barton,female : divorced/separated,4,1,unskilled ,23,own,none,yes
+MO-1780066,Meg O'Connel,female : divorced/separated,2,3,skilled employee ,24,rent,none,yes
+NF-1847527,Neil Französisch,male   : single,4,3,skilled employee ,28,own,none,yes
+MR-1754558,Mathew Reese,male   : divorced/separated,2,3,unskilled ,31,own,none,yes
+CB-1241548,Christy Brittain,female : divorced/separated,4,1,skilled employee ,24,for free,yes,yes
+LC-1705092,Liz Carlisle,female : divorced/separated,4,5,unskilled ,26,rent,none,yes
+RA-1988527,Ruben Ausman,male   : married/widowed,3,1,skilled employee ,25,rent,none,yes
+MG-814533,Mike Gockenbach,male   : single,1,10,management,33,own,yes,yes
+AB-101051408,Adrian Barton,male   : single,1,1,unskilled ,37,own,none,yes
+EM-1396058,Eric Murdock,female : divorced/separated,2,3,unskilled ,43,own,none,yes
+DJ-1342082,Denny Joy,male   : single,4,1,skilled employee ,23,own,none,yes
+CD-1192045,Carlos Daly,female : divorced/separated,4,0,unemployed,23,rent,none,yes
+BO-1142582,Bobby Odegard,male   : single,2,3,unskilled ,34,own,none,yes
+AB-101051404,Adrian Barton,male   : single,3,10,skilled employee ,32,for free,none,yes
+KM-16720102,Kunst Miller,female : divorced/separated,4,1,skilled employee ,23,rent,yes,yes
+SV-2078545,Stewart Visinsky,female : divorced/separated,2,3,skilled employee ,29,own,none,no
+BG-1169582,Brooke Gillingham,male   : single,4,0,management,38,own,yes,yes
+CS-121307,Chad Sievert,male   : single,2,3,skilled employee ,28,rent,yes,yes
+BD-163561,Brian Derr,male   : single,4,10,skilled employee ,46,for free,yes,yes
+RF-19345120,Randy Ferguson,male   : single,2,1,unskilled ,23,own,none,yes
+JE-1616559,Justin Ellison,male   : single,4,10,skilled employee ,49,own,yes,yes
+MG-768060,Maureen Gastineau,male   : single,2,3,management,26,own,yes,yes
+CC-1247558,Cindy Chapman,male   : married/widowed,2,3,skilled employee ,28,own,none,yes
+LT-1676564,Larry Tron,female : divorced/separated,4,5,skilled employee ,23,rent,none,yes
+FH-14365120,Fred Hopkins,male   : single,4,3,skilled employee ,61,for free,none,yes
+BF-1097545,Barbara Fisher,male   : single,3,10,management,37,own,none,yes
+CJ-1201027,Caroline Jumper,female : divorced/separated,2,3,skilled employee ,36,own,yes,yes
+SH-997557,Sally Hughsby,male   : married/widowed,2,3,skilled employee ,21,rent,none,yes
+SL-2015582,Sara Luxemburg,male   : single,1,0,unemployed,25,own,none,yes
+NC-834073,Nat Carroll,male   : single,4,5,skilled employee ,36,own,yes,yes
+JB-5400117,Jennifer Braxton,male   : single,1,5,skilled employee ,27,own,none,yes
+TB-2125031,Tim Brockman,female : divorced/separated,4,1,skilled employee ,22,rent,none,yes
+PS-1897028,Paul Stevenson,male   : single,2,10,skilled employee ,42,own,none,yes
+BB-1154548,Brenda Bowman,female : divorced/separated,4,5,skilled employee ,40,rent,none,yes
+SG-1047047,Sheri Gordon,male   : single,4,3,skilled employee ,36,own,none,yes
+SP-20920130,Susan Pistek,male   : single,4,10,skilled employee ,33,own,yes,yes
+NZ-1856558,Nick Zandusky,female : divorced/separated,3,1,skilled employee ,23,rent,none,yes
+Dp-1324027,Dean percer,male   : single,4,10,management,63,for free,yes,yes
+GZ-1447064,Gary Zandusky,female : divorced/separated,4,10,management,60,for free,yes,yes
+AH-1007582,Adam Hart,female : divorced/separated,4,5,skilled employee ,37,rent,none,yes
+CB-2025103,Cassandra Brandow,male   : married/widowed,3,0,skilled employee ,34,own,none,yes
+SC-200507,Sample Company A,male   : single,4,10,skilled employee ,36,for free,none,yes
+AM-10705125,Anne McFarland,male   : single,2,10,management,57,for free,yes,yes
+SC-102302,Scot Coram,female : divorced/separated,4,3,unskilled ,52,own,none,yes
+JS-1559559,Jill Stevenson,male   : single,4,5,skilled employee ,39,own,yes,yes
+BS-1138059,Bill Stewart,female : divorced/separated,4,0,management,38,for free,yes,yes
+TC-21295130,Toby Carlisle,female : divorced/separated,4,5,skilled employee ,25,rent,none,yes
+JL-5130108,Jack Lebron,male   : single,1,1,skilled employee ,26,own,none,yes
+Dp-1324066,Dean percer,male   : single,2,3,unskilled ,26,own,none,yes
+NF-1838511,Natalie Fritzler,female : divorced/separated,1,3,skilled employee ,25,own,none,yes
+AS-10090139,Adam Shillingsburg,female : divorced/separated,2,1,skilled employee ,21,rent,yes,yes
+EL-137357,Ed Ludwig,male   : single,4,0,management,40,own,yes,yes
+FH-1427559,Frank Hawley,male   : single,4,3,skilled employee ,27,own,none,yes
+LT-1676558,Larry Tron,female : divorced/separated,2,5,skilled employee ,27,own,none,yes
+BN-1147027,Brad Norvell,male   : married/widowed,2,3,management,30,own,yes,yes
+BP-11230120,Benjamin Patterson,female : divorced/separated,4,1,unskilled ,19,rent,none,yes
+DM-1352558,Don Miller,male   : single,4,5,management,39,for free,yes,yes
+SM-1032025,Sean Miller,female : divorced/separated,4,5,skilled employee ,31,own,none,yes
+PM-191357,Peter McVee,male   : single,3,0,management,31,own,none,yes
+TS-1143085,Tom Stivers,male   : single,3,5,skilled employee ,32,rent,yes,yes
+TS-2134018,Toby Swindell,female : divorced/separated,4,0,management,55,for free,none,yes
+AM-107057,Anne McFarland,male   : married/widowed,2,3,skilled employee ,46,own,yes,yes
+LS-1724582,Lynn Smith,male   : divorced/separated,1,10,skilled employee ,46,rent,none,yes
+CM-1181597,Candace McMahon,female : divorced/separated,1,3,unskilled ,43,own,none,yes
+FG-1426045,Frank Gastineau,male   : married/widowed,4,1,skilled employee ,39,own,yes,yes
+KN-670560,Kristina Nunn,male   : married/widowed,4,3,skilled employee ,28,own,none,yes
+TB-1152089,Tracy Blumstein,male   : single,2,1,skilled employee ,27,own,yes,yes
+GM-1444091,Gary McGarr,male   : single,2,3,unskilled ,27,own,none,yes
+AB-10523,Adrian Barton,male   : single,4,10,skilled employee ,43,own,none,yes
+JB-1540051,Jennifer Braxton,male   : married/widowed,1,1,skilled employee ,22,own,yes,yes
+JS-1603097,Joy Smith,male   : single,4,5,skilled employee ,43,own,yes,yes
+AM-10705102,Anne McFarland,male   : married/widowed,2,1,skilled employee ,27,own,none,no
+SF-2020039,Sarah Foster,male   : divorced/separated,2,10,management,26,own,yes,yes
+JF-1529531,Jason Fortune-,male   : married/widowed,2,5,skilled employee ,28,own,yes,yes
+KH-16510102,Keith Herrera,female : divorced/separated,4,10,skilled employee ,20,own,yes,yes
+DL-1333058,Denise Leinenbach,male   : single,2,5,management,35,own,yes,yes
+KN-163907,Katherine Nockton,male   : single,2,0,management,42,own,yes,yes
+SV-2093527,Susan Vittorini,male   : single,2,3,unskilled ,40,rent,none,no
+MD-178607,Michael Dominguez,female : divorced/separated,2,3,skilled employee ,35,own,none,yes
+LS-1720045,Luke Schmidt,male   : single,2,10,skilled employee ,35,own,yes,yes
+JM-1586582,John Murray,male   : single,1,1,unskilled ,33,own,none,yes
+CM-124457,Chuck Magee,female : divorced/separated,2,3,skilled employee ,23,rent,yes,yes
+SS-20140104,Saphhira Shifley,female : divorced/separated,2,5,management,31,own,none,yes
+BW-1111058,Bart Watters,female : divorced/separated,2,3,skilled employee ,33,own,none,yes
+JE-1561058,Jim Epp,female : divorced/separated,3,5,skilled employee ,20,rent,none,yes
+GH-1442527,Gary Hwang,male   : single,2,3,skilled employee ,30,own,none,yes
+JK-1609058,Juliana Krohn,male   : single,3,5,unskilled ,47,own,none,yes
+SM-2032036,Sean Miller,male   : single,3,5,management,34,own,none,yes
+GR-1456082,Georgia Rosenberg,female : divorced/separated,2,10,skilled employee ,25,own,yes,yes
+AB-101051406,Adrian Barton,male   : married/widowed,3,3,skilled employee ,21,rent,yes,yes
+DH-367577,Duane Huffman,male   : single,2,10,skilled employee ,29,own,none,yes
+MM-8280108,Muhammed MacIntyre,male   : single,3,3,skilled employee ,46,own,none,yes
+PM-913560,Peter McVee,male   : single,4,10,skilled employee ,20,own,none,yes
+GH-144257,Gary Hwang,female : divorced/separated,4,0,unemployed,55,for free,none,yes
+JM-1586597,John Murray,male   : single,4,5,unskilled ,74,own,none,yes
+CM-1211564,Chad McGuire,male   : single,3,3,management,29,own,yes,yes
+SC-2084527,Sung Chung,male   : single,4,0,management,36,for free,yes,yes
+GP-474086,Guy Phonely,male   : divorced/separated,2,3,skilled employee ,33,own,yes,yes
+AF-1087014,Art Ferguson,male   : single,2,3,skilled employee ,25,own,none,yes
+TS-2150545,Tony Sayre,male   : married/widowed,1,3,skilled employee ,25,own,yes,yes
+CR-1273028,Craig Reiter,male   : married/widowed,4,5,unskilled ,23,rent,none,yes
+BM-115757,Brendan Murry,female : divorced/separated,4,10,skilled employee ,37,own,yes,yes
+AH-100308,Aaron Hawkins,male   : single,4,0,unemployed,65,own,none,yes
+AG-1049527,Andrew Gjertsen,female : divorced/separated,1,1,unemployed,26,own,none,yes
+BN-11470139,Brad Norvell,male   : single,4,10,management,39,own,yes,yes
+AG-6758,Anna Gayman,female : divorced/separated,3,3,skilled employee ,30,own,none,yes
+SW-2075545,Steven Ward,male   : single,3,3,skilled employee ,29,own,yes,yes
+SK-1999045,Sally Knutson,male   : single,4,10,unskilled ,41,own,none,yes
+MP-18175144,Mike Pelletier,female : divorced/separated,3,3,management,30,own,yes,yes
+AG-1090082,Arthur Gainer,female : divorced/separated,4,10,unskilled ,41,rent,none,yes
+AJ-96086,Astrea Jones,female : divorced/separated,4,1,skilled employee ,34,own,yes,yes
+MC-7275137,Marc Crier,male   : single,2,3,skilled employee ,35,own,none,yes
+EJ-13720113,Ed Jacobs,female : divorced/separated,4,10,management,55,own,yes,yes
+MS-1736539,Maribeth Schnelling,male   : married/widowed,3,3,skilled employee ,61,own,none,yes
+DH-13675139,Duane Huffman,male   : single,2,3,management,30,own,yes,yes
+HE-1480018,Harold Engle,female : divorced/separated,1,3,skilled employee ,29,own,none,yes
+SB-2017027,Sarah Bern,male   : single,4,10,skilled employee ,34,own,none,yes
+VT-2170092,Valerie Takahito,male   : single,4,10,management,35,own,yes,yes
+BC-1112592,Becky Castell,male   : single,3,6,skilled employee ,31,own,yes,yes
+NF-1859527,Nicole Fjeld,female : divorced/separated,1,1,management,29,own,yes,yes
+AH-101201404,Adrian Hane,male   : single,2,3,skilled employee ,36,rent,none,yes
+RB-19330120,Randy Bradley,male   : single,4,10,skilled employee ,35,for free,yes,yes
+CS-11950124,Carlos Soltero,female : divorced/separated,1,1,skilled employee ,27,own,none,yes
+BW-11110120,Bart Watters,male   : single,2,1,skilled employee ,32,own,yes,yes
+LW-1682558,Laurel Workman,male   : single,2,3,skilled employee ,37,own,none,yes
+RD-19585120,Rob Dowd,male   : single,3,1,skilled employee ,36,own,none,yes
+BT-1168066,Brian Thompson,female : divorced/separated,1,1,management,34,rent,none,yes
+AH-101201402,Adrian Hane,male   : single,4,10,skilled employee ,38,own,none,yes
+AH-101201408,Adrian Hane,male   : single,1,6,skilled employee ,34,own,yes,yes
+TB-2117564,Thomas Boland,male   : single,4,3,skilled employee ,63,own,yes,yes
+MD-7860137,Michael Dominguez,female : divorced/separated,2,1,unskilled ,29,rent,yes,yes
+JH-1618059,Justin Hirsh,male   : single,3,10,skilled employee ,32,own,none,yes
+CC-1214548,Charles Crestani,female : divorced/separated,2,3,skilled employee ,26,own,yes,yes
+XP-2186539,Xylona Preis,male   : single,3,6,unskilled ,35,own,yes,yes
+TS-2137058,Todd Sumrall,male   : married/widowed,2,1,skilled employee ,22,rent,yes,yes
+ML-1741031,Maris LaWare,female : divorced/separated,4,1,skilled employee ,23,own,none,yes
+BS-1166545,Brian Stugart,male   : single,3,3,unskilled ,28,own,none,yes
+CA-1196548,Carol Adams,male   : single,4,0,management,36,own,yes,yes
+QJ-1925527,Quincy Jones,male   : married/widowed,2,3,skilled employee ,33,own,none,yes
+RE-1945036,Richard Eichhorn,female : divorced/separated,4,1,skilled employee ,26,rent,none,yes
+CP-2085117,Cathy Prescott,male   : single,4,3,skilled employee ,24,own,none,yes
+JK-5730108,Joe Kamberova,male   : single,2,6,skilled employee ,25,own,none,yes
+HZ-1495045,Henia Zydlo,male   : single,4,6,unskilled ,39,own,none,yes
+AR-105707,Anemone Ratner,male   : single,4,10,skilled employee ,44,own,yes,yes
+EH-14005120,Erica Hernandez,female : divorced/separated,1,3,unskilled ,23,own,none,yes
+JR-1570058,Jocasta Rupert,male   : single,1,1,skilled employee ,26,own,none,yes
+PL-1892588,Paul Lucas,female : divorced/separated,4,10,skilled employee ,57,rent,yes,yes
+TC-2114582,Theresa Coyne,female : divorced/separated,2,6,skilled employee ,30,own,none,yes
+DG-1330082,Deirdre Greer,male   : single,4,3,skilled employee ,44,own,yes,yes
+LW-1699045,Lindsay Williams,male   : single,4,0,management,47,own,yes,yes
+Dl-1360045,Dorris liebe,male   : single,4,3,skilled employee ,52,own,yes,yes
+SC-2009545,Sanjit Chand,female : divorced/separated,4,10,skilled employee ,62,for free,yes,yes
+EB-1393059,Eric Barreto,male   : single,2,3,unskilled ,35,rent,none,no
+SM-2000518,Sally Matthias,male   : single,3,3,skilled employee ,26,rent,none,yes
+JR-1567048,Jim Radford,male   : single,2,10,skilled employee ,26,own,none,yes
+CM-1216027,Charles McCrossin,female : divorced/separated,4,10,management,42,for free,yes,yes
+DL-129257,Daniel Lacy,female : divorced/separated,1,3,skilled employee ,27,own,none,yes
+FM-1429065,Frank Merwin,male   : single,4,10,skilled employee ,38,own,none,yes
+DP-1316558,David Philippe,male   : single,2,3,unskilled ,39,rent,none,no
+CK-1259592,Clytie Kelty,male   : married/widowed,4,3,skilled employee ,20,own,none,yes
+GM-1444027,Gary McGarr,male   : single,1,1,management,29,rent,yes,yes
+CM-1183045,Cari MacIntyre,male   : single,3,6,skilled employee ,40,own,none,yes
+MM-1726027,Magdelene Morse,male   : married/widowed,2,10,unskilled ,32,own,none,yes
+ME-17320139,Maria Etezadi,male   : divorced/separated,4,10,skilled employee ,28,own,yes,yes
+CS-1249082,Cindy Schnelling,female : divorced/separated,1,1,skilled employee ,27,own,none,yes
+GH-14410120,Gary Hansen,male   : single,4,10,skilled employee ,42,for free,none,yes
+MC-1763536,Matthew Clasen,male   : divorced/separated,4,10,skilled employee ,49,own,none,yes
+VT-2170018,Valerie Takahito,male   : single,4,1,skilled employee ,38,own,none,yes
+SJ-2021527,Sarah Jordon,female : divorced/separated,4,1,skilled employee ,24,rent,none,yes
+CD-1192027,Carlos Daly,male   : single,4,3,unskilled ,27,own,none,yes
+TA-21385102,Tom Ashbrook,male   : single,2,3,skilled employee ,36,own,yes,yes
+DJ-88887148,Denny Joy,male   : single,2,0,management,34,own,yes,yes
+LM-7065105,Liz MacKendrick,male   : married/widowed,2,3,skilled employee ,28,own,none,yes
+AR-1051064,Andrew Roberts,male   : single,2,10,management,45,own,yes,yes
+JH-1591066,Jonathan Howell,male   : single,2,6,skilled employee ,26,own,none,yes
+PC-1900078,Pauline Chand,male   : single,2,3,management,32,for free,yes,yes
+CM-12235139,Chris McAfee,male   : single,4,6,skilled employee ,26,rent,yes,yes
+DK-337533,Dennis Kane,male   : married/widowed,4,3,skilled employee ,20,rent,none,yes
+EG-1390045,Emily Grady,male   : single,1,1,skilled employee ,54,own,none,yes
+AH-100757,Adam Hart,female : divorced/separated,3,6,skilled employee ,37,own,none,no
+AS-1063092,Ann Steele,male   : single,4,1,unskilled ,40,own,none,no
+CL-1189018,Carl Ludwig,female : divorced/separated,4,1,skilled employee ,23,rent,yes,yes
+CA-12265139,Christina Anderson,male   : single,2,10,skilled employee ,43,own,yes,yes
+DB-1297045,Darren Budd,male   : single,4,10,skilled employee ,36,for free,none,yes
+PC-1900048,Pauline Chand,male   : single,4,10,skilled employee ,44,for free,none,yes
+VS-218207,Vivek Sundaresam,female : divorced/separated,2,3,skilled employee ,24,own,none,yes
+AS-101351406,Adrian Shami,male   : single,4,3,skilled employee ,53,for free,none,yes
+AS-13523,Adrian Shami,female : divorced/separated,4,6,skilled employee ,23,own,none,yes
+JR-1567027,Jim Radford,female : divorced/separated,4,3,unskilled ,26,own,none,yes
+MF-1766527,Maureen Fritzler,male   : single,3,1,skilled employee ,30,own,none,yes
+EB-13930139,Eric Barreto,female : divorced/separated,3,3,skilled employee ,31,own,none,yes
+EB-1397518,Erica Bern,male   : single,1,6,unskilled ,42,own,none,yes
+AS-101351404,Adrian Shami,male   : divorced/separated,4,3,skilled employee ,31,rent,none,yes
+MV-1748545,Mark Van Huff,male   : single,4,1,unskilled ,41,own,yes,yes
+JW-1595545,Joni Wasserman,male   : single,1,6,skilled employee ,32,own,none,yes
+LA-1678027,Laura Armstrong,female : divorced/separated,4,3,skilled employee ,28,rent,yes,yes
+FM-1421564,Filia McAdams,male   : married/widowed,4,3,skilled employee ,41,rent,none,yes
+AB-101501406,Aimee Bixby,male   : married/widowed,3,6,skilled employee ,26,own,yes,yes
+MC-1757518,Matt Collins,male   : single,2,1,skilled employee ,25,own,none,yes
+MC-1763582,Matthew Clasen,male   : divorced/separated,1,1,skilled employee ,33,rent,none,yes
+JF-541586,Jennifer Ferguson,female : divorced/separated,3,0,management,75,own,yes,yes
+AH-1021018,Alan Hwang,female : divorced/separated,4,10,skilled employee ,37,own,yes,yes
+PO-1919527,Phillina Ober,male   : single,4,10,management,42,for free,none,yes
+BM-1178527,Bryan Mills,female : divorced/separated,1,1,unskilled ,45,own,none,yes
+KD-1634558,Katherine Ducich,male   : married/widowed,1,1,skilled employee ,23,rent,none,yes
+TS-21610139,Troy Staebel,male   : single,4,10,skilled employee ,60,for free,yes,yes
+AR-1051027,Andrew Roberts,male   : single,4,10,skilled employee ,31,own,none,yes
+PG-1889582,Paul Gonzalez,male   : single,1,3,unskilled ,34,own,none,yes
+LC-1705051,Liz Carlisle,male   : single,4,10,unskilled ,61,own,none,yes
+DJ-1342045,Denny Joy,male   : single,2,0,skilled employee ,43,for free,none,yes
+HK-1489045,Heather Kirkland,female : divorced/separated,4,3,skilled employee ,37,own,yes,yes
+HH-5010129,Hilary Holden,male   : single,1,6,skilled employee ,32,own,none,yes
+RR-193157,Ralph Ritter,female : divorced/separated,4,3,unskilled ,24,own,none,yes
+SH-2063548,Stefanie Holloman,male   : single,1,6,skilled employee ,35,for free,yes,yes
+AB-101501402,Aimee Bixby,female : divorced/separated,4,6,skilled employee ,23,own,none,yes
+DV-1346527,Dianna Vittorini,male   : single,4,10,unskilled ,45,own,none,yes
+RP-985586,Roy Phan,male   : married/widowed,1,6,skilled employee ,34,own,yes,yes
+NF-1838582,Natalie Fritzler,male   : single,1,1,skilled employee ,27,own,none,yes
+LR-1703548,Lisa Ryan,female : divorced/separated,4,6,management,67,own,yes,yes
+DR-1294058,Daniel Raglin,male   : single,1,1,skilled employee ,22,own,none,yes
+AF-1087048,Art Ferguson,female : divorced/separated,3,1,skilled employee ,28,own,none,yes
+IM-5055106,Ionia McGrath,female : divorced/separated,4,3,skilled employee ,29,own,yes,yes
+AS-285108,Alejandro Savely,male   : single,4,6,skilled employee ,27,own,none,yes
+DK-1298539,Darren Koutras,male   : single,2,1,unskilled ,31,own,none,yes
+RW-1954096,Rick Wilson,male   : single,4,10,skilled employee ,49,for free,yes,yes
+EH-418561,Evan Henry,male   : single,4,6,unskilled ,24,rent,none,yes
+ML-1739559,Marina Lichtenstein,female : divorced/separated,1,1,skilled employee ,29,own,none,yes
+BF-1121593,Benjamin Farhat,male   : single,4,3,skilled employee ,37,for free,yes,yes
+MB-730533,Maria Bertelson,male   : single,2,3,management,37,own,yes,yes
+KN-164507,Kean Nguyen,female : divorced/separated,2,6,skilled employee ,23,rent,yes,yes
+HR-14770102,Hallie Redmond,male   : divorced/separated,3,6,skilled employee ,36,own,none,yes
+CK-1276045,Cyma Kinney,male   : single,2,10,skilled employee ,34,own,none,yes
+PB-192107,Phillip Breyer,male   : single,1,6,skilled employee ,41,own,yes,yes
+AB-16523,Alan Barnes,female : divorced/separated,2,3,skilled employee ,31,own,yes,yes
+AA-1048031,Andrew Allen,female : divorced/separated,4,1,unskilled ,23,rent,yes,yes
+RO-97803,Rose O'Brian,male   : single,2,6,skilled employee ,38,own,none,yes
+AB-101651404,Alan Barnes,female : divorced/separated,4,0,management,26,rent,yes,yes
+MR-175457,Mathew Reese,female : divorced/separated,4,3,unskilled ,22,own,none,yes
+SP-2092064,Susan Pistek,male   : single,4,10,unskilled ,27,own,none,yes
+AH-1046593,Amy Hunt,female : divorced/separated,3,6,skilled employee ,24,own,none,yes
+AB-101651408,Alan Barnes,female : divorced/separated,1,6,skilled employee ,27,own,none,yes
+AH-105857,Angele Hood,female : divorced/separated,2,3,skilled employee ,33,own,yes,yes
+CV-2805134,Cynthia Voltz,male   : divorced/separated,4,1,skilled employee ,27,own,none,yes
+JK-1532545,Jason Klamczynski,male   : married/widowed,3,1,unskilled ,27,own,none,yes
+RB-943575,Richard Bierner,male   : single,3,10,skilled employee ,30,own,none,yes
+AG-52560,Andy Gerbode,male   : single,3,1,unskilled ,49,own,none,yes
+AR-1034582,Alex Russell,female : divorced/separated,2,3,skilled employee ,26,rent,none,yes
+MW-8220110,Mitch Webber,male   : single,1,1,unskilled ,33,rent,none,yes
+AH-21038,Alan Hwang,female : divorced/separated,4,10,management,52,for free,yes,yes
+FC-142457,Frank Carlisle,female : divorced/separated,4,3,skilled employee ,20,rent,none,yes
+ML-1741027,Maris LaWare,male   : single,2,3,skilled employee ,36,rent,none,yes
+TH-212357,Tiffany House,male   : single,1,3,unskilled ,21,own,none,yes
+AB-101651406,Alan Barnes,male   : married/widowed,3,3,unskilled ,47,own,yes,yes
+TW-2102527,Tamara Willingham,male   : single,3,10,skilled employee ,60,own,none,yes
+LT-7110117,Liz Thompson,female : divorced/separated,3,6,unskilled ,58,own,yes,yes
+KN-16390139,Katherine Nockton,female : divorced/separated,4,3,skilled employee ,42,rent,yes,yes
+HD-1478548,Harold Dahlen,female : divorced/separated,4,10,unskilled ,36,own,none,yes
+MC-7575110,Matt Collins,female : divorced/separated,4,3,unskilled ,20,rent,yes,yes
+CS-1246058,Chuck Sachs,male   : single,3,10,management,40,own,yes,yes
+ME-1732064,Maria Etezadi,female : divorced/separated,1,1,unskilled ,32,own,none,yes
+SW-2027564,Scott Williamson,female : divorced/separated,4,6,skilled employee ,23,rent,none,yes
+CR-1282051,Cyra Reiten,male   : single,4,3,unskilled ,36,own,yes,yes
+HM-14860125,Harry Marie,male   : single,2,6,skilled employee ,31,own,none,yes
+CC-247587,Cindy Chapman,male   : single,2,3,skilled employee ,32,for free,none,yes
+JM-1525045,Janet Martin,female : divorced/separated,1,1,skilled employee ,45,own,none,yes
+PS-18970118,Paul Stevenson,female : divorced/separated,1,3,skilled employee ,30,own,none,yes
+CM-1219045,Charlotte Melton,female : divorced/separated,4,6,unskilled ,34,for free,none,yes
+QJ-1925564,Quincy Jones,female : divorced/separated,2,3,management,28,own,yes,yes
+TS-2150559,Tony Sayre,female : divorced/separated,2,1,skilled employee ,23,own,none,yes
+AB-101651402,Alan Barnes,male   : single,4,3,skilled employee ,22,own,yes,yes
+KM-1672078,Kunst Miller,male   : single,2,3,management,74,own,yes,yes
+SB-2018518,Sarah Brown,female : divorced/separated,4,3,skilled employee ,50,for free,none,yes
+MT-1807045,Michelle Tran,male   : single,1,1,skilled employee ,33,own,none,yes
+JF-15415139,Jennifer Ferguson,male   : single,4,10,skilled employee ,45,for free,none,yes
+MT-807095,Michelle Tran,female : divorced/separated,3,0,skilled employee ,22,own,none,yes
+ES-14020120,Erica Smith,female : divorced/separated,4,10,unskilled ,48,for free,none,yes
+AB-60042,Ann Blume,female : divorced/separated,2,1,skilled employee ,29,own,none,yes
+PS-189707,Paul Stevenson,female : divorced/separated,4,3,skilled employee ,22,rent,none,no
+EB-13975139,Erica Bern,female : divorced/separated,1,6,skilled employee ,22,own,none,yes
+AF-1087018,Art Ferguson,male   : single,2,3,management,48,own,yes,yes
+MC-1742559,Mark Cousins,male   : single,2,3,management,27,for free,none,yes
+CC-1268558,Craig Carroll,male   : single,3,3,skilled employee ,37,rent,none,yes
+EH-4125134,Eugene Hildebrand,female : divorced/separated,4,3,skilled employee ,21,rent,none,yes
+BS-116657,Brian Stugart,male   : divorced/separated,2,3,unskilled ,49,own,none,yes
+IM-1507059,Irene Maddox,male   : single,3,6,skilled employee ,27,own,none,yes
+SM-1032029,Sean Miller,male   : single,2,3,skilled employee ,32,own,none,yes
+DA-1345055,Dianna Arnett,male   : divorced/separated,2,3,skilled employee ,38,own,none,yes
+DB-1306045,Dave Brooks,female : divorced/separated,1,1,skilled employee ,22,rent,none,yes
+LC-1688582,Lena Creighton,male   : single,4,3,skilled employee ,65,for free,none,yes
+TC-2098045,Tamara Chand,male   : single,2,10,skilled employee ,35,own,none,yes
+SW-2035059,Sean Wendt,male   : single,2,3,skilled employee ,41,own,yes,yes
+JW-1522058,Jane Waco,male   : single,3,6,skilled employee ,29,own,none,yes
+DA-1345031,Dianna Arnett,male   : single,4,3,skilled employee ,36,own,yes,yes
+CM-1830117,Cari MacIntyre,male   : single,4,10,unskilled ,64,own,none,yes
+CS-1184527,Cari Sayre,female : divorced/separated,4,3,skilled employee ,28,own,none,yes
+MO-1780051,Meg O'Connel,male   : single,3,3,skilled employee ,44,own,none,yes
+CR-1273018,Craig Reiter,male   : single,1,1,skilled employee ,23,own,none,yes
+MY-1738096,Maribeth Yedwab,female : divorced/separated,2,1,skilled employee ,19,rent,none,yes
+MS-7830110,Melanie Seite,female : divorced/separated,4,1,unskilled ,25,own,yes,yes
+SW-207557,Steven Ward,male   : single,4,10,skilled employee ,47,own,yes,yes
+HG-1496597,Henry Goldwyn,female : divorced/separated,1,6,skilled employee ,28,own,none,yes
+DC-1328551,Debra Catini,male   : single,4,6,skilled employee ,21,own,yes,yes
+DL-13315139,Delfina Latchford,female : divorced/separated,3,1,skilled employee ,34,own,none,yes
+TH-21235125,Tiffany House,male   : single,2,6,skilled employee ,26,own,yes,yes
+JK-15370100,Jay Kimmel,female : divorced/separated,1,0,unemployed,27,own,none,yes
+CH-207060,Cathy Hwang,male   : single,4,10,unskilled ,38,own,none,yes
+ST-205307,Shui Tom,male   : single,2,3,management,40,own,yes,yes
+SP-2092048,Susan Pistek,male   : married/widowed,2,6,skilled employee ,33,own,yes,yes
+MH-744033,Mark Haberlin,male   : married/widowed,1,6,management,32,own,yes,yes
+MC-1784558,Michael Chen,male   : single,4,1,skilled employee ,27,rent,yes,yes
+PW-19030139,Pauline Webber,male   : divorced/separated,2,3,skilled employee ,32,own,none,yes
+BS-1159045,Brendan Sweed,female : divorced/separated,2,3,skilled employee ,26,own,none,yes
+AD-101801404,Alan Dominguez,male   : single,3,6,skilled employee ,38,for free,none,yes
+DO-1343558,Denny Ordway,male   : single,4,3,unskilled ,40,rent,none,yes
+SG-2089051,Susan Gilcrest,male   : single,1,6,management,50,for free,yes,yes
+JC-161057,Julie Creighton,male   : single,2,3,unskilled ,37,own,none,yes
+TB-2119058,Thomas Brumley,male   : single,1,10,skilled employee ,45,own,none,yes
+KD-1627059,Karen Daniels,male   : single,4,10,management,42,own,yes,yes
+BM-1114059,Becky Martin,male   : single,3,6,skilled employee ,35,own,yes,yes
+SV-1078529,Stewart Visinsky,male   : single,4,0,skilled employee ,22,for free,none,yes
+AH-1003082,Aaron Hawkins,male   : single,4,10,unskilled ,41,own,none,yes
+AD-101801402,Alan Dominguez,male   : single,3,6,skilled employee ,37,own,yes,yes
+VP-21760120,Victoria Pisteka,female : divorced/separated,1,3,skilled employee ,28,own,none,yes
+EG-13900139,Emily Grady,male   : single,1,10,skilled employee ,41,own,yes,yes
+TC-21145102,Theresa Coyne,male   : married/widowed,4,3,skilled employee ,23,rent,none,yes
+LR-1691558,Lena Radford,male   : married/widowed,2,3,skilled employee ,23,own,none,yes
+AD-101801406,Alan Dominguez,male   : single,2,10,skilled employee ,50,own,none,yes
+TH-21550130,Tracy Hopkins,male   : single,1,0,management,35,own,yes,yes
+HD-1478527,Harold Dahlen,female : divorced/separated,4,3,unskilled ,50,own,none,yes
+TP-2113027,Theone Pippenger,male   : single,2,0,management,27,own,yes,yes
+TC-11145108,Theresa Coyne,male   : single,2,4,skilled employee ,34,own,yes,yes
+JL-1523536,Janet Lee,female : divorced/separated,1,4,skilled employee ,27,own,none,yes
+RK-1930018,Ralph Kennedy,male   : single,4,10,skilled employee ,43,rent,yes,yes
+CC-1267064,Craig Carreira,male   : single,4,10,skilled employee ,47,own,none,yes
+TC-2098058,Tamara Chand,male   : single,3,4,unskilled ,27,own,yes,yes
+CM-123857,Christopher Martinez,male   : single,2,6,skilled employee ,31,own,yes,yes
+BG-1103564,Barry Gonzalez,male   : single,4,10,management,42,own,yes,yes
+MG-1789097,Michael Granlund,male   : married/widowed,2,4,skilled employee ,24,own,none,yes
+MM-1726078,Magdelene Morse,male   : single,2,1,unskilled ,41,own,none,yes
+TG-2164078,Trudy Glocke,female : divorced/separated,4,6,management,26,rent,yes,yes
+CC-1237011,Christopher Conant,male   : single,4,10,skilled employee ,33,own,yes,yes
+SC-2084582,Sung Chung,male   : married/widowed,2,4,skilled employee ,24,own,none,yes
+PS-1904518,Penelope Sewall,male   : single,4,10,unskilled ,64,rent,none,yes
+CB-1202559,Cassandra Brandow,female : divorced/separated,1,1,skilled employee ,26,own,none,yes
+BT-11395139,Bill Tyler,female : divorced/separated,2,1,skilled employee ,56,own,none,yes
+SJ-2050051,Shirley Jackson,male   : single,4,4,skilled employee ,37,for free,yes,yes
+MC-1784545,Michael Chen,male   : married/widowed,3,4,skilled employee ,33,own,none,yes
+MG-1820518,Mitch Gastineau,male   : married/widowed,3,1,skilled employee ,47,for free,yes,yes
+RA-199157,Russell Applegate,male   : single,3,6,unskilled ,31,own,yes,yes
+TT-11265103,Tim Taslimi,male   : single,4,4,skilled employee ,34,for free,yes,yes
+TH-1123561,Tiffany House,male   : single,2,6,skilled employee ,27,own,yes,yes
+DM-1301564,Darrin Martin,male   : single,3,10,skilled employee ,30,for free,none,yes
+VG-217905,Vivek Gonzalez,male   : single,4,10,skilled employee ,35,own,yes,yes
+JW-1595527,Joni Wasserman,male   : single,3,4,skilled employee ,31,own,none,yes
+ZC-2191058,Zuschuss Carroll,male   : divorced/separated,3,4,skilled employee ,25,own,none,yes
+NW-1840082,Natalie Webber,female : divorced/separated,2,4,unskilled ,25,own,none,yes
+VP-217307,Victor Preis,male   : single,1,1,skilled employee ,29,own,none,yes
+SS-2041045,Shahid Shariari,male   : single,3,1,unskilled ,44,own,none,yes
+AH-101951408,Alan Haines,male   : single,2,6,skilled employee ,28,own,yes,yes
+AG-27032,Alejandro Grove,male   : single,4,4,skilled employee ,50,rent,none,yes
+BW-1120045,Ben Wallace,male   : single,3,6,skilled employee ,29,own,none,no
+FM-1421545,Filia McAdams,female : divorced/separated,2,0,unemployed,38,own,none,yes
+AH-101951406,Alan Haines,male   : single,2,4,skilled employee ,24,own,none,yes
+NL-1831027,Nancy Lomonaco,male   : single,4,10,management,40,rent,yes,yes
+SC-1072524,Steven Cartwright,female : divorced/separated,4,4,unskilled ,29,rent,none,yes
+CA-1226592,Christina Anderson,male   : single,4,10,skilled employee ,46,for free,yes,yes
+AH-19523,Alan Haines,female : divorced/separated,2,10,skilled employee ,47,for free,yes,yes
+AG-1052582,Andy Gerbode,male   : single,2,10,skilled employee ,41,own,none,yes
+PL-1892527,Paul Lucas,female : divorced/separated,1,1,skilled employee ,32,own,yes,yes
+AB-1001545,Aaron Bergman,female : divorced/separated,4,10,skilled employee ,35,for free,none,yes
+TS-2150527,Tony Sayre,male   : single,2,6,skilled employee ,24,own,none,yes
+MG-1814558,Mike Gockenbach,female : divorced/separated,3,1,skilled employee ,25,rent,none,yes
+AH-101951402,Alan Haines,female : divorced/separated,4,10,skilled employee ,25,own,none,yes
+RD-1958514,Rob Dowd,male   : single,2,4,unskilled ,37,own,none,yes
+BD-116057,Brian Dahlen,male   : single,3,10,management,32,own,yes,yes
+PB-191057,Peter Bühler,female : divorced/separated,4,10,skilled employee ,35,for free,none,yes
+AB-10150120,Aimee Bixby,male   : single,4,10,management,46,own,yes,yes
+GK-1462092,Grace Kelly,male   : single,4,4,unskilled ,25,own,none,yes
+SC-2057582,Sonia Cooley,male   : single,2,6,management,27,own,yes,yes
+CC-1247566,Cindy Chapman,male   : single,4,10,skilled employee ,63,own,none,yes
+DO-343515,Denny Ordway,male   : single,2,10,skilled employee ,40,own,yes,yes
+NS-1850582,Neola Schneider,male   : single,2,4,management,32,for free,yes,yes
+AH-102101406,Alan Hwang,male   : single,2,4,skilled employee ,31,own,yes,yes
+TS-2143045,Tom Stivers,male   : married/widowed,4,10,skilled employee ,31,own,yes,yes
+AH-102101404,Alan Hwang,male   : single,2,1,management,34,own,yes,yes
+AZ-1075093,Annie Zypern,female : divorced/separated,2,1,skilled employee ,24,rent,none,yes
+AH-102101408,Alan Hwang,female : divorced/separated,2,4,unskilled ,24,own,none,yes
+IG-1508545,Ivan Gibson,female : divorced/separated,3,4,unskilled ,66,own,none,yes
+SP-2086045,Sung Pak,female : divorced/separated,3,4,skilled employee ,21,rent,none,yes
+KM-162257,Kalyca Meade,female : divorced/separated,2,4,unskilled ,41,own,none,yes
+BS-1136518,Bill Shonely,male   : married/widowed,2,4,unskilled ,47,own,none,yes
+TC-211457,Theresa Coyne,female : divorced/separated,4,4,skilled employee ,25,rent,none,yes
+KM-672060,Kunst Miller,female : divorced/separated,3,10,skilled employee ,59,rent,none,yes
+GM-144407,Gary McGarr,male   : divorced/separated,4,4,skilled employee ,36,own,yes,yes
+BF-1097527,Barbara Fisher,male   : single,2,1,skilled employee ,33,own,none,yes
+MM-1805548,Michelle Moray,male   : single,4,4,unskilled ,21,rent,none,yes
+AH-102101402,Alan Hwang,female : divorced/separated,2,6,unskilled ,44,own,none,yes
+RB-193607,Raymond Buch,female : divorced/separated,4,4,skilled employee ,28,rent,yes,yes
+NC-8415137,Nathan Cano,female : divorced/separated,1,6,skilled employee ,37,own,none,yes
+GR-1456096,Georgia Rosenberg,female : divorced/separated,2,1,unemployed,29,own,none,yes
+SN-207107,Steve Nguyen,female : divorced/separated,4,4,management,23,rent,none,yes
+DL-333061,Denise Leinenbach,male   : single,4,4,unskilled ,35,own,yes,yes
+CJ-118757,Carl Jackson,male   : single,3,7,management,45,own,yes,yes
+AY-10555139,Andy Yotov,female : divorced/separated,4,4,unskilled ,26,rent,none,yes
+CP-1234036,Christine Phan,male   : single,3,7,skilled employee ,32,own,none,yes
+MP-1747093,Mark Packer,male   : single,4,4,unskilled ,23,own,none,yes
+PJ-19015139,Pauline Johnson,male   : single,3,10,skilled employee ,41,own,yes,yes
+NC-1841593,Nathan Cano,male   : single,4,4,skilled employee ,22,own,yes,yes
+BV-11245120,Benjamin Venier,male   : single,4,7,management,30,own,yes,yes
+LW-1682545,Laurel Workman,male   : single,1,1,unskilled ,28,own,none,yes
+BO-1142545,Bobby Odegard,female : divorced/separated,4,0,skilled employee ,23,rent,none,yes
+EB-1384059,Ellis Ballard,female : divorced/separated,1,1,unskilled ,37,own,none,yes
+SG-2047031,Sheri Gordon,male   : single,3,4,skilled employee ,26,own,none,yes
+PO-919586,Phillina Ober,male   : single,2,7,skilled employee ,33,own,none,yes
+CS-1184516,Cari Sayre,female : divorced/separated,1,10,skilled employee ,49,own,yes,yes
+KB-1658548,Ken Black,female : divorced/separated,2,1,unskilled ,23,own,none,yes
+EM-1414058,Eugene Moren,female : divorced/separated,4,7,unskilled ,23,rent,none,yes
+KN-1639048,Katherine Nockton,female : divorced/separated,2,7,skilled employee ,25,own,none,yes
+SL-2015566,Sara Luxemburg,male   : single,4,10,skilled employee ,55,for free,none,yes
+CM-1211578,Chad McGuire,female : divorced/separated,4,7,skilled employee ,32,rent,none,yes
+GZ-4545108,George Zrebassa,male   : single,1,4,unemployed,74,own,none,no
+DK-1298582,Darren Koutras,male   : single,4,4,skilled employee ,39,for free,yes,yes
+DK-1298558,Darren Koutras,male   : single,2,4,skilled employee ,31,own,yes,yes
+PN-1877527,Parhena Norris,male   : single,3,10,skilled employee ,35,own,none,yes
+MS-1798058,Michael Stewart,female : divorced/separated,4,10,skilled employee ,59,own,yes,yes
+EH-1412578,Eugene Hildebrand,female : divorced/separated,4,4,skilled employee ,24,rent,none,yes
+AG-1090045,Arthur Gainer,male   : single,3,4,unskilled ,24,own,none,yes
+BS-1159066,Brendan Sweed,male   : single,4,10,management,30,for free,yes,yes
+BP-11185139,Ben Peterman,male   : married/widowed,3,7,skilled employee ,27,own,yes,yes
+BH-1171039,Brosina Hoffman,male   : married/widowed,3,10,unskilled ,40,own,none,yes
+AS-28560,Alejandro Savely,male   : divorced/separated,4,1,unskilled ,31,own,none,yes
+SC-2080058,Stuart Calhoun,female : divorced/separated,4,1,skilled employee ,31,rent,none,yes
+SV-208157,Stuart Van,male   : single,4,10,skilled employee ,28,rent,yes,yes
+MP-1817545,Mike Pelletier,male   : single,4,10,unskilled ,63,own,yes,yes
+AS-102251408,Alan Schoenberger,female : divorced/separated,4,10,skilled employee ,26,rent,none,yes
+TT-114602,Tonja Turnell,female : divorced/separated,2,4,management,25,own,yes,yes
+PS-1876048,Pamela Stobb,male   : single,4,10,management,36,own,yes,yes
+RR-1952527,Rick Reed,male   : single,4,10,skilled employee ,52,own,none,yes
+AC-1042027,Alyssa Crouse,male   : single,4,0,unemployed,66,for free,none,yes
+TP-2113082,Theone Pippenger,female : divorced/separated,4,4,skilled employee ,25,rent,none,yes
+CG-1204092,Catherine Glotzbach,male   : single,4,7,skilled employee ,37,own,yes,yes
+BG-1103527,Barry Gonzalez,female : divorced/separated,1,7,skilled employee ,25,own,none,yes
+CR-12580144,Clay Rozendal,male   : single,2,10,management,38,own,yes,yes
+TR-11325129,Toby Ritter,female : divorced/separated,4,0,skilled employee ,67,own,yes,yes
+SC-2044082,Shaun Chance,male   : single,2,7,skilled employee ,25,own,none,yes
+BT-1168027,Brian Thompson,male   : single,4,10,skilled employee ,60,own,yes,yes
+AS-102251404,Alan Schoenberger,male   : single,2,4,unskilled ,31,own,yes,yes
+CC-1237026,Christopher Conant,female : divorced/separated,2,1,unskilled ,23,own,none,yes
+DC-1328582,Debra Catini,male   : divorced/separated,4,0,management,60,own,yes,yes
+JE-1574531,Joel Eaton,male   : single,2,4,unskilled ,35,own,yes,yes
+DB-1321036,Dean Braden,male   : single,4,10,skilled employee ,40,own,none,yes
+LS-1720080,Luke Schmidt,male   : single,3,10,skilled employee ,38,own,yes,yes
+BE-11335139,Bill Eplett,male   : single,4,10,skilled employee ,50,for free,none,yes
+MH-180257,Michelle Huthwaite,male   : single,3,4,skilled employee ,27,own,yes,yes
+JB-1592548,Joni Blumstein,female : divorced/separated,4,10,skilled employee ,39,own,none,yes
+TW-21025139,Tamara Willingham,male   : single,4,10,management,41,own,yes,yes
+GW-1460527,Giulietta Weimer,male   : married/widowed,2,4,skilled employee ,27,own,none,yes
+SC-2072518,Steven Cartwright,male   : divorced/separated,4,10,skilled employee ,51,for free,none,yes
+LR-1691544,Lena Radford,male   : single,3,10,skilled employee ,32,rent,yes,yes
+FO-1430545,Frank Olsen,female : divorced/separated,4,1,skilled employee ,22,rent,none,yes
+SV-10815126,Stuart Van,male   : single,4,10,skilled employee ,51,for free,yes,yes
+JF-1541527,Jennifer Ferguson,female : divorced/separated,4,1,unskilled ,22,rent,none,yes
+SS-2014018,Saphhira Shifley,male   : married/widowed,4,10,skilled employee ,54,own,yes,yes
+RP-19855130,Roy Phan,male   : single,2,1,unemployed,35,own,none,yes
+AB-1006059,Adam Bellavance,male   : single,4,10,skilled employee ,54,for free,none,yes
+RB-1933082,Randy Bradley,female : divorced/separated,4,10,unskilled ,48,rent,yes,yes
+LW-172157,Luke Weiss,female : divorced/separated,4,10,skilled employee ,24,own,none,yes
+AR-1051045,Andrew Roberts,male   : single,4,10,skilled employee ,35,own,none,yes
+AG-1090058,Arthur Gainer,female : divorced/separated,2,0,unemployed,24,rent,none,yes
+LH-17155118,Logan Haushalter,male   : single,1,7,skilled employee ,24,own,yes,yes
+KB-1624058,Karen Bern,male   : married/widowed,3,1,unskilled ,26,own,none,no
+KA-1652539,Kelly Andreada,male   : single,4,10,skilled employee ,65,own,none,yes
+BM-111407,Becky Martin,male   : single,2,0,management,55,for free,yes,yes
+JL-1517559,James Lanier,female : divorced/separated,1,1,unemployed,26,rent,none,yes
+EM-396086,Eric Murdock,male   : married/widowed,2,1,skilled employee ,26,own,yes,yes
+AS-1022511,Alan Schoenberger,male   : married/widowed,3,7,unskilled ,28,own,none,yes
+SC-2023058,Scot Coram,male   : single,4,7,skilled employee ,24,own,yes,yes
+JD-1579059,John Dryer,male   : single,4,4,skilled employee ,54,own,none,yes
+JL-1585048,John Lucas,male   : single,4,7,skilled employee ,46,for free,none,yes
+JW-1607592,Julia West,female : divorced/separated,2,4,skilled employee ,54,rent,none,yes
+LL-684033,Lauren Leatherbury,male   : divorced/separated,4,4,skilled employee ,62,own,none,yes
+TH-2110045,Thea Hendricks,female : divorced/separated,2,7,skilled employee ,24,rent,yes,yes
+MC-1727545,Marc Crier,male   : divorced/separated,3,0,management,43,own,none,yes
+NG-8430108,Nathan Gelder,male   : married/widowed,3,4,skilled employee ,26,own,none,yes
+KD-1661545,Ken Dana,male   : married/widowed,2,4,skilled employee ,27,own,yes,yes
+MC-1760536,Matt Connell,male   : married/widowed,1,4,skilled employee ,24,own,none,yes
+AS-22523,Alan Schoenberger,male   : single,2,10,skilled employee ,41,own,none,yes
+JK-1562539,Jim Karlsson,male   : single,4,10,unskilled ,47,own,none,yes
+BD-1150059,Bradley Drucker,male   : divorced/separated,2,1,management,35,own,yes,yes
+CP-1208527,Cathy Prescott,male   : married/widowed,3,10,skilled employee ,30,own,yes,yes
+AS-102251406,Alan Schoenberger,female : divorced/separated,4,10,skilled employee ,33,rent,yes,yes
+KN-1645082,Kean Nguyen,male   : single,2,4,skilled employee ,36,own,none,yes
+TM-2149059,Tony Molinari,male   : single,4,10,skilled employee ,47,for free,none,yes
+TS-115053,Tony Sayre,male   : single,4,4,skilled employee ,38,for free,yes,yes
+LD-6855117,Lela Donovan,male   : single,2,4,skilled employee ,44,own,yes,yes
+LP-170807,Liz Pelletier,female : divorced/separated,3,1,skilled employee ,23,rent,yes,yes
+KA-1652548,Kelly Andreada,male   : single,4,10,skilled employee ,29,rent,none,yes
+DK-1315039,David Kendrick,female : divorced/separated,4,10,skilled employee ,42,own,yes,yes
+KD-1649545,Keith Dawkins,female : divorced/separated,3,1,unskilled ,25,own,none,yes
+BB-115457,Brenda Bowman,male   : single,4,4,skilled employee ,48,own,none,yes
+BN-1147078,Brad Norvell,female : divorced/separated,2,4,skilled employee ,21,own,none,yes
+CV-1280566,Cynthia Voltz,female : divorced/separated,3,1,unskilled ,23,rent,none,yes
+CM-1193531,Carlos Meador,male   : single,4,10,skilled employee ,63,own,yes,yes
+SK-1999082,Sally Knutson,male   : married/widowed,3,10,skilled employee ,46,own,none,yes
+BE-11410139,Bobby Elias,male   : single,2,7,skilled employee ,29,own,none,yes
+KM-1672048,Kunst Miller,male   : single,2,4,unskilled ,28,own,none,yes
+TB-215205,Tracy Blumstein,female : divorced/separated,4,1,skilled employee ,23,own,none,yes
+JC-1610514,Julie Creighton,male   : single,4,7,skilled employee ,50,own,yes,yes
+MO-1750048,Mary O'Rourke,male   : single,4,10,skilled employee ,47,own,yes,yes
+MS-175307,MaryBeth Skach,male   : single,3,7,skilled employee ,35,own,yes,yes
+GA-145157,George Ashbrook,male   : single,4,4,skilled employee ,68,rent,none,yes
+CS-123557,Christine Sundaresam,male   : married/widowed,2,1,skilled employee ,28,own,none,yes
+SW-202458,Scot Wooten,male   : single,4,7,skilled employee ,59,own,none,yes
+CP-208560,Cathy Prescott,male   : single,4,10,unskilled ,57,own,none,yes
+PF-1916545,Philip Fox,male   : married/widowed,2,4,skilled employee ,33,rent,none,no
+BS-1138045,Bill Stewart,male   : single,4,7,skilled employee ,43,own,yes,yes
+GM-1450093,Gene McClure,male   : single,4,4,skilled employee ,35,for free,yes,yes
+AS-102401408,Alan Shonely,male   : single,4,7,unskilled ,32,for free,none,yes
+CC-1247518,Cindy Chapman,male   : single,2,10,skilled employee ,45,own,yes,yes
+VF-21715120,Vicky Freymann,male   : married/widowed,3,1,skilled employee ,33,own,yes,yes
+HG-1496566,Henry Goldwyn,female : divorced/separated,3,7,skilled employee ,40,own,yes,yes
+CC-267071,Craig Carreira,male   : single,2,4,skilled employee ,28,for free,yes,yes
+KM-163757,Katherine Murray,female : divorced/separated,2,4,skilled employee ,29,own,yes,yes
+HR-148307,Harold Ryan,male   : single,2,4,skilled employee ,26,rent,none,no
+ED-1388527,Emily Ducich,male   : single,2,4,skilled employee ,27,own,none,yes
+TB-21520120,Tracy Blumstein,male   : married/widowed,2,4,skilled employee ,28,own,yes,yes
+MW-1822027,Mitch Webber,female : divorced/separated,4,1,skilled employee ,35,own,yes,yes
+RH-960038,Rob Haberlin,male   : single,2,1,unskilled ,32,own,yes,yes
+SB-202907,Sean Braxton,male   : single,2,4,unskilled ,25,rent,none,yes
+MN-1793527,Michael Nguyen,female : divorced/separated,4,4,skilled employee ,20,rent,none,yes
+RP-19390102,Resi Pölking,female : divorced/separated,1,1,skilled employee ,27,own,none,yes
+LB-1679558,Laurel Beltran,male   : single,4,10,skilled employee ,42,own,none,yes
+PK-1891082,Paul Knutson,male   : single,2,10,skilled employee ,37,own,none,yes
+LS-1694559,Linda Southworth,female : divorced/separated,4,10,skilled employee ,24,rent,none,yes
+JK-1573064,Joe Kamberova,female : divorced/separated,4,7,skilled employee ,40,own,yes,yes
+AS-102401404,Alan Shonely,male   : single,4,10,skilled employee ,46,own,none,no
+BT-113957,Bill Tyler,male   : single,1,7,skilled employee ,26,own,yes,yes
+AS-102401406,Alan Shonely,female : divorced/separated,1,1,skilled employee ,24,own,none,yes
+MC-1810045,Mick Crebagga,male   : single,2,4,unskilled ,29,own,none,yes
+NZ-18565139,Nick Zandusky,female : divorced/separated,4,4,skilled employee ,40,own,none,yes
+NF-18385124,Natalie Fritzler,male   : single,4,1,management,36,for free,yes,yes
+SS-2041091,Shahid Shariari,male   : single,2,10,skilled employee ,28,own,none,yes
+EH-1394564,Eric Hoffmann,male   : single,2,1,management,27,for free,yes,yes
+CS-1184511,Cari Sayre,male   : single,3,7,skilled employee ,36,own,none,yes
+JM-161957,Justin MacKendrick,male   : single,3,7,management,38,own,yes,yes
+MG-1789027,Michael Granlund,male   : divorced/separated,4,4,skilled employee ,48,for free,yes,yes
+PL-1892545,Paul Lucas,male   : single,4,10,skilled employee ,36,own,none,yes
+MA-1799548,Michelle Arnett,female : divorced/separated,4,0,unemployed,65,own,none,yes
+SP-2065059,Stephanie Phelps,male   : divorced/separated,3,7,skilled employee ,43,own,yes,yes
+RW-1969058,Robert Waldorf,female : divorced/separated,4,1,skilled employee ,53,own,none,yes
+AH-1007559,Adam Hart,male   : single,3,7,skilled employee ,34,own,yes,yes
+JH-1543082,Jennifer Halladay,male   : single,2,4,skilled employee ,23,own,yes,yes
+PO-1885045,Patrick O'Brill,male   : single,4,10,management,34,own,yes,yes
+KB-1631545,Karl Braun,male   : single,4,1,skilled employee ,40,rent,yes,yes
+ZC-2191064,Zuschuss Carroll,male   : single,4,10,management,43,own,yes,yes
+ML-1775545,Max Ludwig,male   : single,4,10,skilled employee ,46,own,yes,yes
+CD-1279045,Cynthia Delaney,male   : single,4,4,unskilled ,38,own,none,no
+PC-18745102,Pamela Coakley,male   : single,4,4,skilled employee ,34,own,yes,yes
+KE-1642018,Katrina Edelman,male   : single,3,4,skilled employee ,29,own,yes,yes
+EM-420086,Evan Minnotte,male   : single,2,7,management,31,own,yes,yes
+DW-134807,Dianna Wilson,female : divorced/separated,4,1,management,28,rent,yes,yes
+SC-10680134,Steve Carroll,female : divorced/separated,2,7,skilled employee ,35,own,none,no
+JG-1580527,John Grady,female : divorced/separated,4,7,unskilled ,33,rent,none,yes
+PV-898522,Paul Van Hugh,male   : single,3,4,skilled employee ,42,own,none,yes
+AS-24023,Alan Shonely,male   : single,4,10,skilled employee ,43,rent,yes,yes
+RS-197658,Roland Schwarz,male   : divorced/separated,4,1,skilled employee ,44,own,yes,yes
+SH-199757,Sally Hughsby,male   : single,4,10,skilled employee ,42,for free,none,yes
+SB-201707,Sarah Bern,male   : married/widowed,2,4,skilled employee ,40,rent,yes,yes
+JF-541549,Jennifer Ferguson,male   : single,1,10,management,36,own,yes,yes
+DK-1298518,Darren Koutras,male   : single,2,4,management,20,rent,yes,yes
+GA-1472527,Guy Armstrong,male   : single,2,7,unskilled ,24,own,none,no
+XP-218657,Xylona Preis,male   : married/widowed,2,4,skilled employee ,27,own,none,yes
+GT-475533,Guy Thornton,female : divorced/separated,2,1,unskilled ,46,own,none,yes
+HA-1492016,Helen Andreada,female : divorced/separated,2,4,unskilled ,33,own,none,yes
+JF-15295139,Jason Fortune-,female : divorced/separated,4,4,skilled employee ,34,own,none,yes
+PR-1888082,Patrick Ryan,female : divorced/separated,4,1,unskilled ,25,own,none,yes
+AW-1084048,Anthony Witt,female : divorced/separated,4,10,skilled employee ,25,own,none,yes
+AG-1067555,Anna Gayman,male   : divorced/separated,2,10,skilled employee ,28,own,yes,yes
+CJ-1187527,Carl Jackson,male   : single,2,4,skilled employee ,31,rent,yes,yes
+AG-1076558,Anthony Garverick,female : divorced/separated,2,4,management,32,own,yes,no
+SE-2011048,Sanjit Engle,male   : single,2,4,skilled employee ,32,own,none,yes
+DM-130157,Darrin Martin,male   : single,4,10,management,68,own,yes,yes
+AB-102551404,Alejandro Ballentine,male   : divorced/separated,1,0,skilled employee ,33,own,none,yes
+VP-2173026,Victor Preis,male   : single,2,10,management,39,rent,yes,yes
+JB-1604526,Julia Barnett,female : divorced/separated,2,4,skilled employee ,28,own,none,yes
+MD-1786059,Michael Dominguez,male   : single,1,7,management,37,own,yes,yes
+JM-558069,Jill Matthias,female : divorced/separated,4,1,skilled employee ,22,rent,none,yes
+SC-203057,Sean Christensen,male   : single,4,7,skilled employee ,30,rent,yes,yes
+JO-1528058,Jas O'Carroll,male   : divorced/separated,1,1,skilled employee ,55,own,yes,yes
+AB-25523,Alejandro Ballentine,male   : single,2,1,skilled employee ,46,own,yes,yes
+EM-1414039,Eugene Moren,female : divorced/separated,4,1,skilled employee ,21,rent,none,yes
+PO-1918011,Philisse Overcash,male   : single,4,7,skilled employee ,39,for free,yes,yes
+AB-102551406,Alejandro Ballentine,male   : single,4,10,skilled employee ,58,own,yes,yes
+AB-102551402,Alejandro Ballentine,male   : single,2,4,unskilled ,43,own,none,yes
+MG-1769527,Maureen Gnade,male   : single,1,1,unskilled ,24,own,none,no
+AP-1072092,Anne Pryor,female : divorced/separated,2,1,skilled employee ,22,own,yes,yes
+SE-2011064,Sanjit Engle,male   : single,1,4,skilled employee ,30,own,none,yes
+JK-1532582,Jason Klamczynski,male   : single,4,10,skilled employee ,42,own,yes,yes
+RK-1930082,Ralph Kennedy,female : divorced/separated,1,4,skilled employee ,23,own,none,yes
+EJ-1415531,Eva Jacobs,male   : single,3,1,management,30,own,none,yes
+JB-1600064,Joy Bell-,female : divorced/separated,2,4,unskilled ,28,own,none,yes
+AF-1087027,Art Ferguson,male   : married/widowed,3,1,management,30,rent,yes,yes
+AF-1087058,Art Ferguson,male   : single,4,4,skilled employee ,42,for free,none,yes
+GM-144551,Gary Mitchum,male   : single,4,4,management,46,own,yes,yes
+TP-21130144,Theone Pippenger,male   : single,3,1,management,45,own,yes,yes
+MT-1781527,Meg Tillman,male   : single,2,4,unskilled ,31,own,none,no
+SM-209057,Susan MacKendrick,male   : single,2,7,skilled employee ,31,own,yes,yes
+DW-135407,Don Weiss,male   : single,1,7,unskilled ,42,own,none,yes
+BO-142579,Bobby Odegard,female : divorced/separated,1,1,skilled employee ,46,rent,none,yes
+AB-102551408,Alejandro Ballentine,female : divorced/separated,1,1,skilled employee ,30,own,none,yes
+CM-1193518,Carlos Meador,male   : single,4,1,skilled employee ,30,for free,yes,yes
+AW-10930139,Arthur Wiediger,male   : single,4,0,management,38,own,yes,yes
+DK-1283536,Damala Kotsonis,male   : married/widowed,1,1,unskilled ,43,own,none,yes
+CM-122357,Chris McAfee,male   : single,4,10,skilled employee ,31,own,none,yes
+AF-1088564,Art Foster,male   : married/widowed,3,0,unemployed,40,own,yes,yes
+MP-1747048,Mark Packer,male   : single,1,7,skilled employee ,24,own,yes,yes
+OT-18730120,Olvera Toch,female : divorced/separated,4,1,skilled employee ,28,rent,none,yes
+ON-1871582,Odella Nelson,female : divorced/separated,2,0,management,26,own,yes,yes
+JP-1546059,Jennifer Patt,female : divorced/separated,4,4,skilled employee ,29,own,yes,yes
+AS-102407,Alan Shonely,female : divorced/separated,4,10,management,57,rent,yes,yes
+TB-11625134,Trudy Brown,male   : single,4,10,unskilled ,49,own,none,yes
+JP-5520129,Jeremy Pistek,male   : single,4,10,unskilled ,37,own,none,yes
+DB-1340582,Denny Blanton,male   : single,2,4,unskilled ,45,own,none,yes
+JD-161507,Justin Deggeller,male   : single,4,10,skilled employee ,30,for free,none,yes
+BD-1177045,Bryan Davis,male   : married/widowed,2,10,skilled employee ,30,rent,none,yes
+BD-116357,Brian Derr,male   : divorced/separated,4,4,skilled employee ,47,own,none,yes
+GR-1456045,Georgia Rosenberg,male   : single,2,4,skilled employee ,29,own,none,yes
+CC-2370108,Christopher Conant,male   : single,2,10,skilled employee ,35,own,yes,yes
+GM-1469527,Greg Maxwell,male   : married/widowed,1,1,unskilled ,22,own,none,yes
+PO-8850117,Patrick O'Brill,female : divorced/separated,1,4,skilled employee ,26,own,none,yes
+ND-18370139,Natalie DeCherney,male   : single,2,4,unskilled ,23,own,none,yes
+TZ-2144527,Tom Zandusky,female : divorced/separated,2,10,management,54,rent,yes,yes
+BT-1139564,Bill Tyler,male   : married/widowed,4,7,skilled employee ,29,rent,yes,yes
+JE-1547566,Jeremy Ellison,male   : single,2,4,unskilled ,40,own,none,yes
+RB-1943559,Richard Bierner,male   : single,2,4,skilled employee ,22,own,none,yes
+AI-108557,Arianne Irving,male   : single,4,4,unskilled ,43,own,none,yes
+MH-1744027,Mark Haberlin,female : divorced/separated,4,0,unemployed,29,rent,none,yes
+DB-13210120,Dean Braden,male   : single,4,10,skilled employee ,36,rent,none,yes
+NM-1852082,Neoma Murray,female : divorced/separated,2,4,skilled employee ,33,own,yes,yes
+JE-616574,Justin Ellison,female : divorced/separated,3,4,unskilled ,57,own,none,yes
+Dl-13600130,Dorris liebe,female : divorced/separated,3,4,skilled employee ,64,own,none,yes
+AH-1021051,Alan Hwang,male   : single,2,10,skilled employee ,42,own,none,yes
+DS-1318093,David Smith,male   : single,4,10,unskilled ,47,own,none,yes
+DV-1304582,Darrin Van Huff,male   : married/widowed,2,4,skilled employee ,25,rent,none,yes
+DK-1315031,David Kendrick,male   : single,2,7,skilled employee ,49,own,none,yes
+AC-10660144,Anna Chung,male   : single,2,0,management,33,rent,yes,yes
+CC-1243082,Chuck Clark,female : divorced/separated,1,4,management,28,own,yes,yes
+NG-1835531,Nat Gilpin,male   : single,2,4,skilled employee ,26,own,none,yes
+KE-1642031,Katrina Edelman,male   : single,2,7,unskilled ,30,own,none,yes
+SJ-202158,Sarah Jordon,female : divorced/separated,3,4,skilled employee ,25,rent,none,yes
+AR-1082545,Anthony Rawles,male   : divorced/separated,1,1,skilled employee ,33,own,none,yes
+BM-1178558,Bryan Mills,female : divorced/separated,4,0,skilled employee ,64,own,none,yes
+JH-1582045,John Huston,male   : single,2,0,management,29,for free,yes,yes
+AA-1048059,Andrew Allen,male   : single,2,10,unskilled ,48,own,none,yes
+RC-19825139,Roy Collins,male   : single,1,1,unskilled ,37,own,none,yes
+MO-17800113,Meg O'Connel,male   : single,4,10,unskilled ,34,own,none,yes
+JD-1601551,Joy Daniels,male   : married/widowed,4,7,unskilled ,23,rent,none,yes
+MY-182957,Muhammed Yedwab,male   : single,3,0,management,30,own,yes,yes
+EH-14005139,Erica Hernandez,male   : single,3,10,skilled employee ,50,own,yes,yes
+AF-1088582,Art Foster,female : divorced/separated,4,7,unskilled ,31,own,none,yes
+JH-5910117,Jonathan Howell,male   : divorced/separated,4,4,management,40,own,yes,yes
+SC-10695117,Steve Chapman,male   : single,4,10,skilled employee ,38,own,none,yes
+DJ-1342064,Denny Joy,male   : single,4,4,skilled employee ,23,for free,yes,yes
+AG-102701402,Alejandro Grove,male   : single,4,0,skilled employee ,27,own,none,yes

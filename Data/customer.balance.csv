@@ -1,0 +1,1001 @@
+customer id,Name,Account Status,Duration in Month,Savings account/bonds,Property
+AB-100151402,Aaron Bergman,0,6,0,real estate
+JR-162107,Justin Ritter,100,48,50,real estate
+CR-127307,"E2E flow -PTFS  SOA->ODI->SOA->DP_01 works fine technically, and data file is placed at the DP_01 staging area",,12,50,real estate
+KM-1637548,Katherine Murray,0,42,50,life insurance
+RH-9495111,Rick Hansen,0,24,50,
+JM-156557,Jim Mitchum,,36,0,
+TS-2134092,Toby Swindell,,24,700,life insurance
+MB-1808592,Mick Brown,100,36,50,car or other
+AB-100151404,Aaron Bergman,,12,1500,real estate
+AJ-107801,Anthony Jacobs,100,30,50,car or other
+MM-7260110,Magdelene Morse,100,12,50,car or other
+VF-2171518,Vicky Freymann,0,48,50,life insurance
+PF-1912027,Peter Fuller,100,12,50,car or other
+BP-1118545,Ben Peterman,0,24,50,car or other
+PJ-1883564,Patrick Jones,0,15,50,car or other
+JS-156857,Jim Sink,0,24,150,car or other
+RH-9555129,Ritsa Hightower,,24,0,life insurance
+AB-600103,Ann Blume,0,30,0,car or other
+JK-1532527,Jason Klamczynski,100,24,50,
+LB-16795139,Laurel Beltran,,24,700,car or other
+NP-1832582,Naresj Patel,,9,50,car or other
+VD-2167039,Valerie Dominguez,0,6,700,real estate
+PB-19210127,Phillip Breyer,0,10,50,real estate
+EB-1411048,Eugene Barchas,100,12,150,life insurance
+AH-100301406,Aaron Hawkins,,10,0,car or other
+BP-1123058,Benjamin Patterson,0,6,50,real estate
+RR-1952536,Rick Reed,,6,50,car or other
+BS-1136545,Bill Shonely,250,12,1500,real estate
+AH-100301404,Aaron Hawkins,100,7,50,real estate
+DP-131057,Dave Poirier,0,60,50,
+AH-1003033,Aaron Hawkins,100,18,1500,real estate
+PO-18865139,Patrick O'Donnell,0,24,50,car or other
+DL-128657,Dan Lawera,100,18,150,car or other
+JB-1600059,Joy Bell-,,12,0,
+BF-1100558,Barry Franz,250,12,50,life insurance
+VG-2180558,Vivek Grady,100,45,50,life insurance
+GT-14710139,Greg Tran,,48,50,
+ZC-2191048,Zuschuss Carroll,250,18,50,real estate
+AH-100301408,Aaron Hawkins,250,10,50,car or other
+EB-1384045,Ellis Ballard,100,9,50,real estate
+AP-1091527,Arthur Prichep,,30,700,car or other
+SW-2027558,Scott Williamson,100,12,700,car or other
+JH-15820141,John Huston,100,18,50,real estate
+TG-1164060,Trudy Glocke,0,30,150,car or other
+DG-330087,Deirdre Greer,0,48,50,
+SG-2047058,Sheri Gordon,,11,50,car or other
+GP-1474058,Guy Phonely,,36,700,car or other
+MW-182207,Mitch Webber,0,6,700,life insurance
+CS-1246011,Chuck Sachs,,11,50,life insurance
+MS-1798048,Michael Stewart,,12,150,real estate
+KC-1667548,Kimberly Carter,150,24,0,life insurance
+DB-1340527,Denny Blanton,150,27,50,car or other
+AS-100451408,Aaron Smayling,,12,50,car or other
+DK-13090120,Dave Kipp,,18,0,life insurance
+CS-1184558,Cari Sayre,150,36,50,
+EM-1420082,Evan Minnotte,,6,0,real estate
+DW-3480137,Dianna Wilson,150,12,0,
+AS-1022527,Alan Schoenberger,,36,50,car or other
+ST-2053093,Shui Tom,250,18,50,car or other
+BW-106533,Barry Weirich,0,36,50,
+LA-1678059,Laura Armstrong,150,9,70,real estate
+AB-10150139,Aimee Bixby,150,15,0,real estate
+JH-158207,John Huston,150,36,70,
+AS-100451402,Aaron Smayling,150,48,70,car or other
+BE-1141048,Bobby Elias,,24,70,life insurance
+SZ-2003527,Sam Zeldin,,27,0,life insurance
+RM-1937558,Raymond Messe,,12,70,car or other
+HG-1484545,Harry Greene,150,12,1500,real estate
+DP-310586,Dave Poirier,,36,70,
+AS-100451404,Aaron Smayling,,36,0,car or other
+JB-1600048,Joy Bell-,,36,70,life insurance
+AM-1070559,Anne McFarland,,7,0,life insurance
+AB-25586,Alejandro Ballentine,0,8,70,
+RP-192707,Rachel Payne,150,42,70,real estate
+BK-1126011,Berenike Kampe,0,36,0,
+JM-1525027,Janet Martin,0,12,70,
+NZ-1856545,Nick Zandusky,0,42,70,car or other
+SC-20695102,Steve Chapman,150,11,70,life insurance
+NC-186257,Noah Childs,,54,0,life insurance
+NF-183858,Natalie Fritzler,150,30,70,life insurance
+NZ-185657,Nick Zandusky,,24,0,car or other
+PM-1894045,Paul MacIntyre,,15,700,life insurance
+MZ-1733545,Maria Zettner,,18,150,life insurance
+HM-498033,Henry MacAllister,0,24,70,real estate
+RW-195407,Rick Wilson,0,10,70,real estate
+LH-1715545,Logan Haushalter,,12,70,real estate
+FH-1436582,Fred Hopkins,150,18,70,life insurance
+KM-1666048,Khloe Miller,150,36,150,
+PO-1886545,Patrick O'Donnell,0,18,150,car or other
+AS-100451406,Aaron Smayling,0,12,70,real estate
+AB-1006028,Adam Bellavance,,12,70,real estate
+DB-130607,Dave Brooks,0,12,70,real estate
+VM-2168591,Valerie Mitchum,,12,0,life insurance
+DM-1352548,Don Miller,250,24,0,
+NM-18520120,Neoma Murray,150,12,1500,real estate
+LC-168857,Lena Creighton,150,54,70,
+RO-1978027,Rose O'Brian,,12,0,car or other
+EM-1406548,Erin Mull,150,18,150,car or other
+ON-1871545,Odella Nelson,150,36,70,real estate
+VS-2182027,Vivek Sundaresam,150,20,0,life insurance
+CM-121157,Chad McGuire,,24,150,real estate
+AB-100601404,Adam Bellavance,190,36,80,car or other
+AB-100601406,Adam Bellavance,,6,80,real estate
+JK-153257,Jason Klamczynski,190,9,80,car or other
+RP-1927045,Rachel Payne,,12,0,car or other
+DW-1354078,Don Weiss,190,24,80,car or other
+AB-100601408,Adam Bellavance,,18,80,
+GM-1444037,Gary McGarr,190,12,80,car or other
+SV-2081558,Stuart Van,0,24,0,life insurance
+MM-1792027,Michael Moore,190,14,700,real estate
+JK-1612059,Julie Kriz,190,6,150,car or other
+EM-14200130,Evan Minnotte,250,15,80,life insurance
+AB-100601402,Adam Bellavance,190,18,80,real estate
+PM-1894059,Paul MacIntyre,,36,80,real estate
+AT-1043582,Alyssa Tate,0,12,700,real estate
+AB-1001527,Aaron Bergman,,48,0,real estate
+PV-1898518,Paul Van Hugh,0,42,0,car or other
+SB-2029064,Sean Braxton,0,10,0,real estate
+SM-10005116,Sally Matthias,0,33,700,car or other
+KH-1633059,Katharine Harms,190,12,700,car or other
+MP-181757,Mike Pelletier,0,21,80,real estate
+LH-1702027,Lisa Hazard,,24,80,car or other
+CR-126257,Corey Roper,,12,80,real estate
+NC-1862511,Noah Childs,250,10,80,
+GM-1468091,Greg Matthias,190,18,0,real estate
+RA-1994545,Ryan Akin,0,12,80,life insurance
+DB-1306048,Dave Brooks,0,12,80,real estate
+RF-197357,Roland Fjeld,190,12,80,car or other
+JH-1582048,John Huston,190,12,80,car or other
+DM-1295551,Dario Medina,0,12,80,real estate
+BE-1133582,Bill Eplett,190,48,0,car or other
+SO-2033527,Sean O'Donnell,0,36,80,life insurance
+DK-12835120,Damala Kotsonis,,15,80,life insurance
+LC-7050110,Liz Carlisle,,18,80,
+CG-125207,Claire Gute,,60,150,real estate
+HG-1502559,Hunter Glantz,,12,0,real estate
+AD-1018059,Alan Dominguez,,27,1500,car or other
+BP-11155139,Becky Pak,190,12,700,real estate
+AA-10480130,Andrew Allen,190,15,0,real estate
+RL-196157,Rob Lucas,250,12,80,car or other
+SW-2024559,Scot Wooten,250,6,1500,real estate
+BW-1111027,Bart Watters,190,36,80,
+YC-21895139,Yoseph Carroll,0,27,80,car or other
+JM-1558082,Jill Matthias,0,18,80,car or other
+MZ-733513,Maria Zettner,,21,80,life insurance
+JF-15295120,Jason Fortune-,190,48,150,car or other
+DJ-3510137,Don Jones,0,6,80,
+MF-1825045,Monica Federle,,12,150,car or other
+TC-2129545,Toby Carlisle,0,36,80,life insurance
+CP-1234058,Christine Phan,,18,1500,car or other
+EH-1412545,Eugene Hildebrand,,6,150,
+NC-183407,Nat Carroll,,10,80,life insurance
+JS-1603059,Joy Smith,250,36,80,car or other
+AM-10360139,Alice McCarthy,190,24,1500,
+JF-1519021,Jamie Frazer,190,24,150,car or other
+AB-100157,Aaron Bergman,0,12,80,car or other
+JG-15160139,James Galang,0,9,150,real estate
+AH-100751406,Adam Hart,0,12,80,car or other
+AG-1033059,Alex Grayson,190,24,250,car or other
+NF-1847548,Neil Französisch,,6,0,real estate
+DR-129407,Daniel Raglin,,24,250,real estate
+NB-1865548,Nona Balk,,18,80,life insurance
+NM-1844527,Nathan Mautz,,15,700,life insurance
+TA-213857,Tom Ashbrook,190,10,80,
+SC-20380102,Shahid Collister,,36,700,life insurance
+PA-9060117,Pete Armstrong,,6,700,car or other
+RB-19570120,Rob Beeghly,0,18,80,car or other
+AH-100751404,Adam Hart,190,11,1500,real estate
+LH-1675036,Larry Hughes,,24,80,life insurance
+AH-100751402,Adam Hart,190,24,80,real estate
+KB-1658527,Ken Black,0,15,80,car or other
+AH-1007523,Adam Hart,,12,80,real estate
+MZ-751560,Mary Zewe,190,24,80,life insurance
+DM-1334558,Denise Monton,190,8,80,real estate
+CA-1196566,Carol Adams,0,21,80,life insurance
+SC-20305120,Sean Christensen,,30,0,real estate
+MH-1811558,Mick Hernandez,0,12,80,car or other
+KS-163007,Karen Seio,0,6,700,car or other
+BG-1174078,Bruce Geld,,12,80,car or other
+CR-2625108,Corey Roper,0,21,80,real estate
+DK-1309027,Dave Kipp,,36,80,car or other
+JL-1583527,John Lee,190,36,80,real estate
+AP-1072058,Anne Pryor,0,21,0,life insurance
+CR-1282058,Cyra Reiten,,24,1500,real estate
+BF-110807,Bart Folk,190,18,80,car or other
+JM-15265102,Janet Molinari,,15,80,life insurance
+TW-2102545,Tamara Willingham,190,9,80,
+RB-1933045,Randy Bradley,190,16,80,car or other
+AH-100751408,Adam Hart,0,12,250,life insurance
+AB-10060117,Adam Bellavance,190,18,80,car or other
+JR-567038,Jim Radford,,24,1500,life insurance
+MD-1735028,Maribeth Dona,190,48,250,
+EB-13840139,Ellis Ballard,190,27,80,car or other
+JL-58359,John Lee,,6,80,real estate
+EP-1391559,Emily Phan,190,45,250,life insurance
+MS-17770139,Maxwell Schwartz,190,9,80,car or other
+CM-1265545,Corinna Mitchell,,6,80,car or other
+JC-610575,Julie Creighton,190,12,250,car or other
+GB-145307,George Bell,190,24,0,
+JH-161805,Justin Hirsh,190,18,80,
+MT-807038,Michelle Tran,,9,700,car or other
+AB-1010558,Adrian Barton,0,12,80,real estate
+CV-280572,Cynthia Voltz,,27,80,car or other
+NH-1861092,Nicole Hansen,0,12,80,life insurance
+HJ-1487527,Heather Jas,,12,80,real estate
+JL-1517518,James Lanier,0,30,80,
+MY-1829593,Muhammed Yedwab,,12,80,real estate
+KC-1654093,Kelly Collister,190,12,80,life insurance
+CS-1246093,Chuck Sachs,0,24,80,car or other
+HA-1492027,Helen Andreada,,12,1500,life insurance
+MT-1781545,Meg Tillman,,9,0,real estate
+FW-1439545,Fred Wasserman,,36,,real estate
+BH-1171048,Brosina Hoffman,0,27,80,life insurance
+DK-1289559,Dana Kaydos,250,30,80,real estate
+KD-1627018,Karen Daniels,,36,,car or other
+SC-208458,Sung Chung,190,6,,life insurance
+CY-1274582,Craig Yedwab,0,18,80,life insurance
+HL-150407,Hunter Lopez,250,36,80,real estate
+CT-1199566,Carol Triggs,0,24,80,real estate
+CC-12370139,Christopher Conant,,10,80,car or other
+GR-456072,Georgia Rosenberg,190,12,80,real estate
+TT-2107058,Ted Trevino,0,12,,life insurance
+PO-19195120,Phillina Ober,,12,80,real estate
+ED-13885144,Emily Ducich,,24,,real estate
+AP-1091559,Arthur Prichep,,15,80,car or other
+TM-2149031,Tony Molinari,,36,80,car or other
+AW-1084091,Anthony Witt,190,48,1500,
+SG-10605107,Speros Goranitis,0,12,80,
+BM-1178582,Bryan Mills,,9,80,car or other
+DK-1337582,Dennis Kane,0,24,80,
+AS-100901406,Adam Shillingsburg,250,36,80,car or other
+AS-100901402,Adam Shillingsburg,,9,700,
+SF-10200134,Sarah Foster,,12,250,
+JW-5220111,Jane Waco,190,18,80,real estate
+CC-1210082,Chad Cunningham,,4,80,real estate
+RD-1993092,Russell D'Ascenzo,0,24,80,car or other
+BP-123022,Benjamin Patterson,190,6,,life insurance
+SA-20830139,Sue Ann Reed,190,21,250,car or other
+EM-1381058,Eleni McCrary,,12,80,life insurance
+CS-12175130,Charles Sheldon,0,30,80,life insurance
+JD-16060120,Julia Dunbar,0,24,,car or other
+GH-1466527,Greg Hansen,,6,80,life insurance
+CM-1193527,Carlos Meador,0,48,80,
+JB-1600093,Joy Bell-,,12,80,real estate
+RB-9465108,Rick Bensley,,12,700,real estate
+RB-1979518,Ross Baird,,24,80,real estate
+PO-191957,Phillina Ober,,12,80,real estate
+TS-212057,Thomas Seio,,6,250,
+MV-8190117,Mike Vittorini,250,24,80,real estate
+BD-11560139,Brendan Dodson,,18,80,real estate
+PS-1876059,Pamela Stobb,0,6,1500,real estate
+FM-1421551,Filia McAdams,250,12,80,car or other
+CA-1277558,Cynthia Arntzen,190,30,80,
+CD-1279048,Cynthia Delaney,,24,250,life insurance
+NL-1831092,Nancy Lomonaco,190,9,,car or other
+TB-2105545,Ted Butterfield,190,60,,real estate
+KD-1649527,Keith Dawkins,,24,80,real estate
+EH-412557,Eugene Hildebrand,0,12,80,
+KB-1660058,Ken Brennan,,15,250,car or other
+MG-1769564,Maureen Gnade,,11,250,real estate
+VF-21715102,Vicky Freymann,0,12,80,real estate
+BP-11290113,Beth Paige,0,24,80,car or other
+HZ-49504,Henia Zydlo,0,18,80,
+EM-1382566,Elizabeth Moffitt,,12,80,
+AS-100901408,Adam Shillingsburg,,10,80,real estate
+BS-1180059,Bryan Spruell,190,15,80,car or other
+DV-1346539,Dianna Vittorini,,36,,real estate
+MB-173057,Maria Bertelson,,24,80,car or other
+PC-19000120,Pauline Chand,0,14,80,life insurance
+CA-1231045,Christine Abelman,,24,,car or other
+MB-1808545,Mick Brown,,18,,life insurance
+AS-100901404,Adam Shillingsburg,,12,700,car or other
+DB-3660107,Duane Benoit,190,48,,
+BG-1174018,Bruce Geld,190,48,80,real estate
+KB-1631578,Karl Braun,0,30,80,
+PK-190757,Pete Kriz,,9,80,real estate
+CS-121757,Charles Sheldon,,18,80,car or other
+AF-1088545,Art Foster,0,12,,life insurance
+SJ-2050045,Shirley Jackson,,6,80,life insurance
+DM-1295545,Dario Medina,,24,250,car or other
+CC-1261048,Corey Catlett,,15,1500,
+BE-114557,Brad Eason,,12,80,real estate
+TG-2164014,Trudy Glocke,250,18,,car or other
+VM-2168545,Valerie Mitchum,,15,,life insurance
+SC-2069539,Steve Chapman,190,24,250,car or other
+SN-2056097,Skye Norling,0,47,80,real estate
+CD-122807,Christina DeMoss,0,48,80,life insurance
+CC-1210045,Chad Cunningham,190,48,250,
+BG-1103544,Barry Gonzalez,190,12,80,real estate
+CC-125507,Clay Cheatham,0,24,80,real estate
+AB-101057,Adrian Barton,,12,80,real estate
+SV-2078559,Stewart Visinsky,190,36,80,car or other
+HW-1493545,Helen Wasserman,0,24,80,
+AS-1028558,Alejandro Savely,250,42,80,
+LD-1685545,Lela Donovan,,48,,car or other
+NS-1850528,Neola Schneider,50,48,80,car or other
+CM-1271582,Craig Molinari,,12,,car or other
+VG-2180527,Vivek Grady,,10,,life insurance
+JD-606049,Julia Dunbar,,18,80,real estate
+MG-17680144,Maureen Gastineau,50,21,1500,car or other
+CD-1228058,Christina DeMoss,,6,80,real estate
+DB-13210139,Dean Braden,50,36,80,car or other
+CS-118608,Cari Schnelling,250,24,,real estate
+AF-1088558,Art Foster,0,10,80,life insurance
+BN-11470130,Brad Norvell,,48,700,
+GG-1465045,Greg Guthrie,,6,1500,real estate
+BS-166560,Brian Stugart,,30,,life insurance
+AC-1045058,Amy Cox,0,12,250,
+CK-1220564,Chloris Kastensmidt,50,8,80,real estate
+JD-16150139,Justin Deggeller,50,9,80,real estate
+CC-2550137,Clay Cheatham,50,48,,
+MS-17830139,Melanie Seite,,24,250,car or other
+GT-14710120,Greg Tran,250,24,80,car or other
+CL-1270058,Craig Leslie,50,12,80,car or other
+MM-1792045,Michael Moore,250,4,,real estate
+CM-1216093,Charles McCrossin,0,36,80,car or other
+DB-1306027,Dave Brooks,0,12,80,life insurance
+JW-522087,Jane Waco,50,24,,life insurance
+BN-1147082,Brad Norvell,,12,80,car or other
+JC-157757,John Castell,0,15,80,life insurance
+HL-1504093,Hunter Lopez,50,30,80,car or other
+LH-1690018,Lena Hernandez,0,24,80,life insurance
+DV-1304559,Darrin Van Huff,0,24,80,
+BT-1153058,Bradley Talbott,0,18,1500,car or other
+BM-165060,Brian Moss,,18,80,real estate
+MG-1820558,Mitch Gastineau,0,8,80,real estate
+FC-1424528,Frank Carlisle,,12,,life insurance
+TT-2122051,Thomas Thornton,,24,1500,car or other
+CY-1274558,Craig Yedwab,250,36,80,car or other
+SJ-2021582,Sarah Jordon,50,6,80,car or other
+PB-1880593,Patrick Bzostek,0,24,80,
+RW-1969027,Robert Waldorf,,18,250,real estate
+DB-3360146,Dennis Bolton,50,60,250,life insurance
+DK-1315048,David Kendrick,,48,250,car or other
+RW-9540117,Rick Wilson,0,24,80,
+PS-1904527,Penelope Sewall,0,6,80,real estate
+AB-101051402,Adrian Barton,50,13,80,life insurance
+MO-1780066,Meg O'Connel,0,15,,car or other
+NF-1847527,Neil Französisch,0,24,80,life insurance
+MR-1754558,Mathew Reese,50,10,80,car or other
+CB-1241548,Christy Brittain,50,24,80,
+LC-1705092,Liz Carlisle,0,21,80,car or other
+RA-1988527,Ruben Ausman,50,18,700,real estate
+MG-814533,Mike Gockenbach,50,18,80,real estate
+AB-101051408,Adrian Barton,250,10,80,life insurance
+EM-1396058,Eric Murdock,,15,80,car or other
+DJ-1342082,Denny Joy,50,13,80,real estate
+CD-1192045,Carlos Daly,50,24,700,
+BO-1142582,Bobby Odegard,,6,250,real estate
+AB-101051404,Adrian Barton,50,9,1500,
+KM-16720102,Kunst Miller,,9,80,real estate
+SV-2078545,Stewart Visinsky,50,9,80,car or other
+BG-1169582,Brooke Gillingham,,18,,
+CS-121307,Chad Sievert,0,12,80,life insurance
+BD-163561,Brian Derr,,10,700,
+RF-19345120,Randy Ferguson,50,24,80,real estate
+JE-1616559,Justin Ellison,,12,,real estate
+MG-768060,Maureen Gastineau,,36,80,car or other
+CC-1247558,Cindy Chapman,,12,80,real estate
+LT-1676564,Larry Tron,0,30,80,real estate
+FH-14365120,Fred Hopkins,50,18,,
+BF-1097545,Barbara Fisher,250,12,,car or other
+CJ-1201027,Caroline Jumper,250,12,80,car or other
+SH-997557,Sally Hughsby,,6,80,life insurance
+SL-2015582,Sara Luxemburg,0,18,80,car or other
+NC-834073,Nat Carroll,,12,80,car or other
+JB-5400117,Jennifer Braxton,,18,80,car or other
+TB-2125031,Tim Brockman,0,18,80,car or other
+PS-1897028,Paul Stevenson,0,36,80,car or other
+BB-1154548,Brenda Bowman,50,18,80,real estate
+SG-1047047,Sheri Gordon,,36,,real estate
+SP-20920130,Susan Pistek,,18,80,car or other
+NZ-1856558,Nick Zandusky,,10,80,real estate
+Dp-1324027,Dean percer,,60,,
+GZ-1447064,Gary Zandusky,50,60,250,
+AH-1007582,Adam Hart,0,48,80,car or other
+CB-2025103,Cassandra Brandow,,18,80,real estate
+SC-200507,Sample Company A,,7,,
+AM-10705125,Anne McFarland,50,36,80,
+SC-102302,Scot Coram,,6,250,car or other
+JS-1559559,Jill Stevenson,0,20,,car or other
+BS-1138059,Bill Stewart,50,18,80,
+TC-21295130,Toby Carlisle,,22,,life insurance
+JL-5130108,Jack Lebron,250,12,80,real estate
+Dp-1324066,Dean percer,,30,250,life insurance
+NF-1838511,Natalie Fritzler,,18,80,car or other
+AS-10090139,Adam Shillingsburg,,18,,real estate
+EL-137357,Ed Ludwig,50,18,80,life insurance
+FH-1427559,Frank Hawley,50,15,700,car or other
+LT-1676558,Larry Tron,,9,80,car or other
+BN-1147027,Brad Norvell,,18,80,life insurance
+BP-11230120,Benjamin Patterson,50,12,1500,real estate
+DM-1352558,Don Miller,0,36,80,
+SM-1032025,Sean Miller,0,6,80,car or other
+PM-191357,Peter McVee,,9,80,car or other
+TS-1143085,Tom Stivers,50,39,250,
+TS-2134018,Toby Swindell,0,12,80,
+AM-107057,Anne McFarland,0,36,80,life insurance
+LS-1724582,Lynn Smith,50,12,80,real estate
+CM-1181597,Candace McMahon,,24,1500,real estate
+FG-1426045,Frank Gastineau,,18,80,real estate
+KN-670560,Kristina Nunn,50,18,,real estate
+TB-1152089,Tracy Blumstein,,24,80,car or other
+GM-1444091,Gary McGarr,,14,80,car or other
+AB-10523,Adrian Barton,50,18,,car or other
+JB-1540051,Jennifer Braxton,50,24,80,life insurance
+JS-1603097,Joy Smith,,24,,car or other
+AM-10705102,Anne McFarland,0,15,80,real estate
+SF-2020039,Sarah Foster,,24,700,car or other
+JF-1529531,Jason Fortune-,250,12,700,real estate
+KH-16510102,Keith Herrera,50,24,80,car or other
+DL-1333058,Denise Leinenbach,,33,80,car or other
+KN-163907,Katherine Nockton,,12,80,car or other
+SV-2093527,Susan Vittorini,,10,700,
+MD-178607,Michael Dominguez,0,24,,life insurance
+LS-1720045,Luke Schmidt,,36,80,life insurance
+JM-1586582,John Murray,0,12,80,real estate
+CM-124457,Chuck Magee,0,18,,car or other
+SS-20140104,Saphhira Shifley,,21,700,car or other
+BW-1111058,Bart Watters,50,18,,life insurance
+JE-1561058,Jim Epp,,15,1500,car or other
+GH-1442527,Gary Hwang,50,12,,car or other
+JK-1609058,Juliana Krohn,50,12,80,real estate
+SM-2032036,Sean Miller,,21,300,real estate
+GR-1456082,Georgia Rosenberg,50,12,,life insurance
+AB-101051406,Adrian Barton,50,18,80,car or other
+DH-367577,Duane Huffman,,28,80,car or other
+MM-8280108,Muhammed MacIntyre,,18,1500,real estate
+PM-913560,Peter McVee,,9,80,car or other
+GH-144257,Gary Hwang,0,18,80,
+JM-1586597,John Murray,,5,80,real estate
+CM-1211564,Chad McGuire,50,24,80,car or other
+SC-2084527,Sung Chung,0,6,80,
+GP-474086,Guy Phonely,,24,80,real estate
+AF-1087014,Art Ferguson,0,9,80,real estate
+TS-2150545,Tony Sayre,50,12,,real estate
+CR-1273028,Craig Reiter,,6,700,real estate
+BM-115757,Brendan Murry,,24,1500,real estate
+AH-100308,Aaron Hawkins,0,42,80,car or other
+AG-1049527,Andrew Gjertsen,250,12,80,real estate
+BN-11470139,Brad Norvell,,12,80,car or other
+AG-6758,Anna Gayman,0,12,80,life insurance
+SW-2075545,Steven Ward,50,20,80,car or other
+SK-1999045,Sally Knutson,,12,80,car or other
+MP-18175144,Mike Pelletier,50,48,80,car or other
+AG-1090082,Arthur Gainer,,9,,life insurance
+AJ-96086,Astrea Jones,0,36,80,car or other
+MC-7275137,Marc Crier,50,7,80,real estate
+EJ-13720113,Ed Jacobs,250,12,,real estate
+MS-1736539,Maribeth Schnelling,50,15,1500,life insurance
+DH-13675139,Duane Huffman,,36,,car or other
+HE-1480018,Harold Engle,,6,80,real estate
+SB-2017027,Sarah Bern,,12,80,life insurance
+VT-2170092,Valerie Takahito,,24,80,car or other
+BC-1112592,Becky Castell,0,24,80,life insurance
+NF-1859527,Nicole Fjeld,,24,80,
+AH-101201404,Adrian Hane,0,11,80,real estate
+RB-19330120,Randy Bradley,0,12,80,
+CS-11950124,Carlos Soltero,0,6,80,real estate
+BW-11110120,Bart Watters,,18,80,car or other
+LW-1682558,Laurel Workman,0,36,80,life insurance
+RD-19585120,Rob Dowd,0,15,80,real estate
+BT-1168066,Brian Thompson,50,12,80,real estate
+AH-101201402,Adrian Hane,50,12,,life insurance
+AH-101201408,Adrian Hane,,18,80,car or other
+TB-2117564,Thomas Boland,0,24,80,
+MD-7860137,Michael Dominguez,0,24,80,car or other
+JH-1618059,Justin Hirsh,,48,,car or other
+CC-1214548,Charles Crestani,,33,80,car or other
+XP-2186539,Xylona Preis,,24,80,car or other
+TS-2137058,Todd Sumrall,50,24,300,car or other
+ML-1741031,Maris LaWare,0,6,80,life insurance
+BS-1166545,Brian Stugart,0,9,80,car or other
+CA-1196548,Carol Adams,,6,,life insurance
+QJ-1925527,Quincy Jones,50,18,80,car or other
+RE-1945036,Richard Eichhorn,0,18,90,life insurance
+CP-2085117,Cathy Prescott,,39,900,car or other
+JK-5730108,Joe Kamberova,250,24,90,car or other
+HZ-1495045,Henia Zydlo,50,12,300,real estate
+AR-105707,Anemone Ratner,0,15,90,car or other
+EH-14005120,Erica Hernandez,50,12,90,real estate
+JR-1570058,Jocasta Rupert,50,24,90,life insurance
+PL-1892588,Paul Lucas,0,30,1500,life insurance
+TC-2114582,Theresa Coyne,,15,1500,life insurance
+DG-1330082,Deirdre Greer,,12,900,real estate
+LW-1699045,Lindsay Williams,50,6,90,life insurance
+Dl-1360045,Dorris liebe,,12,90,car or other
+SC-2009545,Sanjit Chand,,24,90,
+EB-1393059,Eric Barreto,,10,300,real estate
+SM-2000518,Sally Matthias,,6,90,life insurance
+JR-1567048,Jim Radford,,12,90,
+CM-1216027,Charles McCrossin,50,27,90,
+DL-129257,Daniel Lacy,,6,300,life insurance
+FM-1429065,Frank Merwin,50,6,,life insurance
+DP-1316558,David Philippe,0,12,90,real estate
+CK-1259592,Clytie Kelty,0,24,,car or other
+GM-1444027,Gary McGarr,50,36,300,
+CM-1183045,Cari MacIntyre,,24,90,life insurance
+MM-1726027,Magdelene Morse,50,18,90,real estate
+ME-17320139,Maria Etezadi,250,6,300,car or other
+CS-1249082,Cindy Schnelling,0,24,90,life insurance
+GH-14410120,Gary Hansen,0,36,90,
+MC-1763536,Matthew Clasen,250,9,300,real estate
+VT-2170018,Valerie Takahito,50,24,300,
+SJ-2021527,Sarah Jordon,0,24,90,life insurance
+CD-1192027,Carlos Daly,,10,,life insurance
+TA-21385102,Tom Ashbrook,250,15,900,car or other
+DJ-88887148,Denny Joy,50,15,300,life insurance
+LM-7065105,Liz MacKendrick,,24,90,life insurance
+AR-1051064,Andrew Roberts,,39,300,car or other
+JH-1591066,Jonathan Howell,0,12,90,real estate
+PC-1900078,Pauline Chand,,36,90,
+CM-12235139,Chris McAfee,250,15,90,life insurance
+DK-337533,Dennis Kane,50,12,90,real estate
+EG-1390045,Emily Grady,,24,,life insurance
+AH-100757,Adam Hart,0,6,90,life insurance
+AS-1063092,Ann Steele,0,6,90,real estate
+CL-1189018,Carl Ludwig,,36,90,life insurance
+CA-12265139,Christina Anderson,0,6,300,life insurance
+DB-1297045,Darren Budd,,6,,
+PC-1900048,Pauline Chand,,24,90,
+VS-218207,Vivek Sundaresam,0,18,90,real estate
+AS-101351406,Adrian Shami,0,48,90,
+AS-13523,Adrian Shami,,24,300,car or other
+JR-1567027,Jim Radford,50,18,90,real estate
+MF-1766527,Maureen Fritzler,50,26,90,car or other
+EB-13930139,Eric Barreto,,15,300,car or other
+EB-1397518,Erica Bern,,4,90,real estate
+AS-101351404,Adrian Shami,0,36,90,car or other
+MV-1748545,Mark Van Huff,0,6,90,real estate
+JW-1595545,Joni Wasserman,50,36,90,car or other
+LA-1678027,Laura Armstrong,50,15,300,car or other
+FM-1421564,Filia McAdams,,12,90,real estate
+AB-101501406,Aimee Bixby,,24,300,life insurance
+MC-1757518,Matt Collins,,24,,car or other
+MC-1763582,Matthew Clasen,250,21,90,car or other
+JF-541586,Jennifer Ferguson,0,6,,life insurance
+AH-1021018,Alan Hwang,50,18,90,life insurance
+PO-1919527,Phillina Ober,0,48,90,
+BM-1178527,Bryan Mills,250,18,90,life insurance
+KD-1634558,Katherine Ducich,50,12,90,real estate
+TS-21610139,Troy Staebel,,24,90,
+AR-1051027,Andrew Roberts,0,30,,life insurance
+PG-1889582,Paul Gonzalez,250,18,90,real estate
+LC-1705051,Liz Carlisle,,12,90,real estate
+DJ-1342045,Denny Joy,0,24,90,real estate
+HK-1489045,Heather Kirkland,,24,90,car or other
+HH-5010129,Hilary Holden,,24,90,car or other
+RR-193157,Ralph Ritter,0,12,90,real estate
+SH-2063548,Stefanie Holloman,,48,,
+AB-101501402,Aimee Bixby,,12,,real estate
+DV-1346527,Dianna Vittorini,,6,900,life insurance
+RP-985586,Roy Phan,0,48,90,real estate
+NF-1838582,Natalie Fritzler,50,12,300,car or other
+LR-1703548,Lisa Ryan,50,9,90,life insurance
+DR-1294058,Daniel Raglin,50,12,90,car or other
+AF-1087048,Art Ferguson,50,18,300,car or other
+IM-5055106,Ionia McGrath,,21,,life insurance
+AS-285108,Alejandro Savely,0,24,90,car or other
+DK-1298539,Darren Koutras,50,18,90,real estate
+RW-1954096,Rick Wilson,0,24,,
+EH-418561,Evan Henry,0,24,90,car or other
+ML-1739559,Marina Lichtenstein,250,6,90,life insurance
+BF-1121593,Benjamin Farhat,50,36,,
+MB-730533,Maria Bertelson,50,24,,life insurance
+KN-164507,Kean Nguyen,50,24,400,life insurance
+HR-14770102,Hallie Redmond,0,12,90,car or other
+CK-1276045,Cyma Kinney,,24,2500,car or other
+PB-192107,Phillip Breyer,50,48,,car or other
+AB-16523,Alan Barnes,0,48,90,car or other
+AA-1048031,Andrew Allen,0,24,90,real estate
+RO-97803,Rose O'Brian,,30,90,car or other
+AB-101651404,Alan Barnes,,24,,life insurance
+MR-175457,Mathew Reese,0,15,90,life insurance
+SP-2092064,Susan Pistek,50,9,90,car or other
+AH-1046593,Amy Hunt,,15,90,car or other
+AB-101651408,Alan Barnes,50,12,90,real estate
+AH-105857,Angele Hood,,24,,car or other
+CV-2805134,Cynthia Voltz,50,36,90,car or other
+JK-1532545,Jason Klamczynski,,24,90,car or other
+RB-943575,Richard Bierner,50,18,90,real estate
+AG-52560,Andy Gerbode,50,12,90,real estate
+AR-1034582,Alex Russell,,9,90,real estate
+MW-8220110,Mitch Webber,50,36,90,
+AH-21038,Alan Hwang,,12,,
+FC-142457,Frank Carlisle,0,18,90,real estate
+ML-1741027,Maris LaWare,0,9,90,real estate
+TH-212357,Tiffany House,0,12,90,life insurance
+AB-101651406,Alan Barnes,0,18,90,real estate
+TW-2102527,Tamara Willingham,0,12,90,life insurance
+LT-7110117,Liz Thompson,0,12,90,real estate
+KN-16390139,Katherine Nockton,50,24,,car or other
+HD-1478548,Harold Dahlen,,21,2500,real estate
+MC-7575110,Matt Collins,50,24,90,life insurance
+CS-1246058,Chuck Sachs,0,24,,car or other
+ME-1732064,Maria Etezadi,50,6,400,life insurance
+SW-2027564,Scott Williamson,0,24,90,car or other
+CR-1282051,Cyra Reiten,50,24,90,real estate
+HM-14860125,Harry Marie,,18,90,life insurance
+CC-247587,Cindy Chapman,,24,90,
+JM-1525045,Janet Martin,50,7,90,real estate
+PS-18970118,Paul Stevenson,50,9,90,life insurance
+CM-1219045,Charlotte Melton,50,24,90,
+QJ-1925564,Quincy Jones,,36,90,car or other
+TS-2150559,Tony Sayre,250,10,90,life insurance
+AB-101651402,Alan Barnes,0,24,900,real estate
+KM-1672078,Kunst Miller,,24,90,real estate
+SB-2018518,Sarah Brown,50,36,400,
+MT-1807045,Michelle Tran,,18,90,real estate
+JF-15415139,Jennifer Ferguson,,15,,
+MT-807095,Michelle Tran,0,12,400,life insurance
+ES-14020120,Erica Smith,250,10,400,
+AB-60042,Ann Blume,0,21,2500,car or other
+PS-189707,Paul Stevenson,0,24,90,car or other
+EB-13975139,Erica Bern,,18,90,real estate
+AF-1087018,Art Ferguson,50,48,,car or other
+MC-1742559,Mark Cousins,50,60,,
+CC-1268558,Craig Carroll,0,6,90,real estate
+EH-4125134,Eugene Hildebrand,50,30,400,car or other
+BS-116657,Brian Stugart,,12,90,real estate
+IM-1507059,Irene Maddox,50,21,90,life insurance
+SM-1032029,Sean Miller,,18,90,life insurance
+DA-1345055,Dianna Arnett,,48,,real estate
+DB-1306045,Dave Brooks,0,12,90,car or other
+LC-1688582,Lena Creighton,0,18,90,
+TC-2098045,Tamara Chand,,15,,car or other
+SW-2035059,Sean Wendt,400,6,90,real estate
+JW-1522058,Jane Waco,50,9,400,
+DA-1345031,Dianna Arnett,,42,900,real estate
+CM-1830117,Cari MacIntyre,,9,,real estate
+CS-1184527,Cari Sayre,0,24,90,car or other
+MO-1780051,Meg O'Connel,0,18,90,car or other
+CR-1273018,Craig Reiter,50,15,,life insurance
+MY-1738096,Maribeth Yedwab,,9,90,car or other
+MS-7830110,Melanie Seite,50,24,90,car or other
+SW-207557,Steven Ward,,12,90,life insurance
+HG-1496597,Henry Goldwyn,,24,900,car or other
+DC-1328551,Debra Catini,,60,90,car or other
+DL-13315139,Delfina Latchford,,12,90,car or other
+TH-21235125,Tiffany House,0,42,90,life insurance
+JK-15370100,Jay Kimmel,0,18,90,real estate
+CH-207060,Cathy Hwang,50,15,90,car or other
+ST-205307,Shui Tom,,15,400,life insurance
+SP-2092048,Susan Pistek,,24,90,car or other
+MH-744033,Mark Haberlin,0,18,90,life insurance
+MC-1784558,Michael Chen,,36,,car or other
+PW-19030139,Pauline Webber,0,30,90,real estate
+BS-1159045,Brendan Sweed,,12,900,life insurance
+AD-101801404,Alan Dominguez,400,24,90,
+DO-1343558,Denny Ordway,0,12,90,car or other
+SG-2089051,Susan Gilcrest,0,48,90,
+JC-161057,Julie Creighton,50,12,90,life insurance
+TB-2119058,Thomas Brumley,0,24,90,real estate
+KD-1627059,Karen Daniels,50,36,400,car or other
+BM-1114059,Becky Martin,,24,90,car or other
+SV-1078529,Stewart Visinsky,0,14,90,
+AH-1003082,Aaron Hawkins,50,12,90,car or other
+AD-101801402,Alan Dominguez,,48,,car or other
+VP-21760120,Victoria Pisteka,50,30,90,car or other
+EG-13900139,Emily Grady,50,18,90,
+TC-21145102,Theresa Coyne,400,12,90,real estate
+LR-1691558,Lena Radford,0,12,,car or other
+AD-101801406,Alan Dominguez,,21,90,real estate
+TH-21550130,Tracy Hopkins,50,6,90,life insurance
+HD-1478527,Harold Dahlen,400,6,90,life insurance
+TP-2113027,Theone Pippenger,,24,90,
+TC-11145108,Theresa Coyne,50,30,2500,car or other
+JL-1523536,Janet Lee,,48,90,real estate
+RK-1930018,Ralph Kennedy,0,12,90,life insurance
+CC-1267064,Craig Carreira,400,30,90,life insurance
+TC-2098058,Tamara Chand,,24,400,life insurance
+CM-123857,Christopher Martinez,,36,400,car or other
+BG-1103564,Barry Gonzalez,,60,90,life insurance
+MG-1789097,Michael Granlund,,6,900,car or other
+MM-1726078,Magdelene Morse,,21,900,real estate
+TG-2164078,Trudy Glocke,,30,90,car or other
+CC-1237011,Christopher Conant,,24,90,car or other
+SC-2084582,Sung Chung,20,72,400,car or other
+PS-1904518,Penelope Sewall,0,24,90,real estate
+CB-1202559,Cassandra Brandow,,18,90,real estate
+BT-11395139,Bill Tyler,,6,90,
+SJ-2050051,Shirley Jackson,,12,,
+MC-1784545,Michael Chen,,15,90,real estate
+MG-1820518,Mitch Gastineau,,24,90,
+RA-199157,Russell Applegate,20,36,400,life insurance
+TT-11265103,Tim Taslimi,,60,,
+TH-1123561,Tiffany House,400,10,,life insurance
+DM-1301564,Darrin Martin,20,36,400,
+VG-217905,Vivek Gonzalez,,9,400,car or other
+JW-1595527,Joni Wasserman,0,12,2500,life insurance
+ZC-2191058,Zuschuss Carroll,0,15,90,life insurance
+NW-1840082,Natalie Webber,20,15,490,real estate
+VP-217307,Victor Preis,20,24,490,car or other
+SS-2041045,Shahid Shariari,0,6,,real estate
+AH-101951408,Alan Haines,,24,90,car or other
+AG-27032,Alejandro Grove,,6,900,life insurance
+BW-1120045,Ben Wallace,20,12,90,real estate
+FM-1421545,Filia McAdams,,12,90,life insurance
+AH-101951406,Alan Haines,,18,90,car or other
+NL-1831027,Nancy Lomonaco,400,15,90,car or other
+SC-1072524,Steven Cartwright,,12,900,car or other
+CA-1226592,Christina Anderson,0,48,90,
+AH-19523,Alan Haines,400,24,490,
+AG-1052582,Andy Gerbode,20,30,490,life insurance
+PL-1892527,Paul Lucas,20,27,90,life insurance
+AB-1001545,Aaron Bergman,,15,900,
+TS-2150527,Tony Sayre,20,48,490,life insurance
+MG-1814558,Mike Gockenbach,20,12,90,life insurance
+AH-101951402,Alan Haines,20,9,90,real estate
+RD-1958514,Rob Dowd,20,9,90,real estate
+BD-116057,Brian Dahlen,,18,900,life insurance
+PB-191057,Peter Bühler,0,6,90,
+AB-10150120,Aimee Bixby,,21,,real estate
+GK-1462092,Grace Kelly,0,9,90,real estate
+SC-2057582,Sonia Cooley,20,60,90,
+CC-1247566,Cindy Chapman,,30,,car or other
+DO-343515,Denny Ordway,,30,,car or other
+NS-1850582,Neola Schneider,,18,90,
+AH-102101406,Alan Hwang,400,24,,car or other
+TS-2143045,Tom Stivers,20,20,490,car or other
+AH-102101404,Alan Hwang,400,9,90,car or other
+AZ-1075093,Annie Zypern,20,6,2500,life insurance
+AH-102101408,Alan Hwang,0,12,90,real estate
+IG-1508545,Ivan Gibson,20,9,900,real estate
+SP-2086045,Sung Pak,,27,90,real estate
+KM-162257,Kalyca Meade,,6,2500,real estate
+BS-1136518,Bill Shonely,,15,900,life insurance
+TC-211457,Theresa Coyne,0,18,90,car or other
+KM-672060,Kunst Miller,10,48,90,
+GM-144407,Gary McGarr,400,24,2500,real estate
+BF-1097527,Barbara Fisher,10,24,90,car or other
+MM-1805548,Michelle Moray,0,24,90,real estate
+AH-102101402,Alan Hwang,10,8,90,real estate
+RB-193607,Raymond Buch,,24,2500,car or other
+NC-8415137,Nathan Cano,,4,90,real estate
+GR-1456096,Georgia Rosenberg,10,36,,
+SN-207107,Steve Nguyen,10,24,90,car or other
+DL-333061,Denise Leinenbach,0,18,490,car or other
+CJ-118757,Carl Jackson,,6,90,
+AY-10555139,Andy Yotov,10,30,490,car or other
+CP-1234036,Christine Phan,0,24,490,car or other
+MP-1747093,Mark Packer,10,10,90,real estate
+PJ-19015139,Pauline Johnson,,21,,life insurance
+NC-1841593,Nathan Cano,0,24,900,real estate
+BV-11245120,Benjamin Venier,0,39,,life insurance
+LW-1682545,Laurel Workman,0,13,90,life insurance
+BO-1142545,Bobby Odegard,0,15,90,car or other
+EB-1384059,Ellis Ballard,0,12,90,real estate
+SG-2047031,Sheri Gordon,,21,,car or other
+PO-919586,Phillina Ober,,15,90,car or other
+CS-1184516,Cari Sayre,0,6,90,life insurance
+KB-1658548,Ken Black,0,18,90,car or other
+EM-1414058,Eugene Moren,10,12,490,real estate
+KN-1639048,Katherine Nockton,,30,90,car or other
+SL-2015566,Sara Luxemburg,,12,2500,
+CM-1211578,Chad McGuire,0,24,,
+GZ-4545108,George Zrebassa,400,6,90,real estate
+DK-1298582,Darren Koutras,500,15,,
+DK-1298558,Darren Koutras,,24,90,real estate
+PN-1877527,Parhena Norris,0,12,90,life insurance
+MS-1798058,Michael Stewart,,15,,car or other
+EH-1412578,Eugene Hildebrand,0,18,90,real estate
+AG-1090045,Arthur Gainer,0,12,90,life insurance
+BS-1159066,Brendan Sweed,,21,,
+BP-11185139,Ben Peterman,,24,490,life insurance
+BH-1171039,Brosina Hoffman,10,12,90,real estate
+AS-28560,Alejandro Savely,0,30,90,life insurance
+SC-2080058,Stuart Calhoun,,10,,real estate
+SV-208157,Stuart Van,10,12,90,car or other
+MP-1817545,Mike Pelletier,,12,90,real estate
+AS-102251408,Alan Schoenberger,0,24,,real estate
+TT-114602,Tonja Turnell,0,36,90,
+PS-1876048,Pamela Stobb,,21,90,car or other
+RR-1952527,Rick Reed,,24,490,life insurance
+AC-1042027,Alyssa Crouse,500,12,900,
+TP-2113082,Theone Pippenger,0,24,,real estate
+CG-1204092,Catherine Glotzbach,,36,90,car or other
+BG-1103527,Barry Gonzalez,0,18,90,real estate
+CR-12580144,Clay Rozendal,,36,2500,car or other
+TR-11325129,Toby Ritter,10,18,90,car or other
+SC-2044082,Shaun Chance,10,39,90,real estate
+BT-1168027,Brian Thompson,,24,2500,real estate
+AS-102251404,Alan Schoenberger,10,12,90,real estate
+CC-1237026,Christopher Conant,10,12,490,life insurance
+DC-1328582,Debra Catini,10,20,,real estate
+JE-1574531,Joel Eaton,10,18,2500,life insurance
+DB-1321036,Dean Braden,,22,900,car or other
+LS-1720080,Luke Schmidt,,48,,car or other
+BE-11335139,Bill Eplett,10,48,90,
+MH-180257,Michelle Huthwaite,0,40,90,
+JB-1592548,Joni Blumstein,10,21,90,life insurance
+TW-21025139,Tamara Willingham,,24,,car or other
+GW-1460527,Giulietta Weimer,,6,,life insurance
+SC-2072518,Steven Cartwright,500,24,90,
+LR-1691544,Lena Radford,,24,900,
+FO-1430545,Frank Olsen,,9,490,life insurance
+SV-10815126,Stuart Van,0,18,,life insurance
+JF-1541527,Jennifer Ferguson,,12,90,life insurance
+SS-2014018,Saphhira Shifley,,24,,car or other
+RP-19855130,Roy Phan,10,9,,real estate
+AB-1006059,Adam Bellavance,,24,90,
+RB-1933082,Randy Bradley,10,18,90,real estate
+LW-172157,Luke Weiss,0,20,90,life insurance
+AR-1051045,Andrew Roberts,,12,,car or other
+AG-1090058,Arthur Gainer,10,12,,real estate
+LH-17155118,Logan Haushalter,0,36,90,car or other
+KB-1624058,Karen Bern,10,6,90,real estate
+KA-1652539,Kelly Andreada,,12,,real estate
+BM-111407,Becky Martin,10,42,90,
+JL-1517559,James Lanier,10,15,90,real estate
+EM-396086,Eric Murdock,10,8,90,real estate
+AS-1022511,Alan Schoenberger,10,6,90,real estate
+SC-2023058,Scot Coram,0,36,90,car or other
+JD-1579059,John Dryer,0,48,90,car or other
+JL-1585048,John Lucas,0,48,90,
+JW-1607592,Julia West,10,36,90,life insurance
+LL-684033,Lauren Leatherbury,,6,900,real estate
+TH-2110045,Thea Hendricks,,6,90,car or other
+MC-1727545,Marc Crier,0,36,90,car or other
+NG-8430108,Nathan Gelder,0,18,90,real estate
+KD-1661545,Ken Dana,,12,90,real estate
+MC-1760536,Matt Connell,500,12,90,car or other
+AS-22523,Alan Schoenberger,0,36,90,life insurance
+JK-1562539,Jim Karlsson,0,8,90,real estate
+BD-1150059,Bradley Drucker,,18,90,car or other
+CP-1208527,Cathy Prescott,0,21,90,car or other
+AS-102251406,Alan Schoenberger,0,18,90,real estate
+KN-1645082,Kean Nguyen,,18,90,car or other
+TM-2149059,Tony Molinari,0,36,,
+TS-115053,Tony Sayre,10,48,,
+LD-6855117,Lela Donovan,,24,900,car or other
+LP-170807,Liz Pelletier,0,18,90,car or other
+KA-1652548,Kelly Andreada,0,45,90,car or other
+DK-1315039,David Kendrick,10,24,,car or other
+KD-1649545,Keith Dawkins,500,15,90,real estate
+BB-115457,Brenda Bowman,0,12,90,car or other
+BN-1147078,Brad Norvell,,12,,car or other
+CV-1280566,Cynthia Voltz,,4,90,real estate
+CM-1193531,Carlos Meador,0,24,90,life insurance
+SK-1999082,Sally Knutson,,24,90,real estate
+BE-11410139,Bobby Elias,0,36,90,life insurance
+KM-1672048,Kunst Miller,,21,90,real estate
+TB-215205,Tracy Blumstein,,18,90,real estate
+JC-1610514,Julie Creighton,,24,90,car or other
+MO-1750048,Mary O'Rourke,,18,90,life insurance
+MS-175307,MaryBeth Skach,10,21,,car or other
+GA-145157,George Ashbrook,,18,,car or other
+CS-123557,Christine Sundaresam,,24,90,real estate
+SW-202458,Scot Wooten,0,9,90,real estate
+CP-208560,Cathy Prescott,0,12,90,real estate
+PF-1916545,Philip Fox,0,20,90,life insurance
+BS-1138045,Bill Stewart,,24,,life insurance
+GM-1450093,Gene McClure,,15,90,
+AS-102401408,Alan Shonely,0,18,90,
+CC-1247518,Cindy Chapman,,36,90,car or other
+VF-21715120,Vicky Freymann,,24,490,real estate
+HG-1496566,Henry Goldwyn,,10,,life insurance
+CC-267071,Craig Carreira,,15,90,
+KM-163757,Katherine Murray,0,15,90,life insurance
+HR-148307,Harold Ryan,,9,490,real estate
+ED-1388527,Emily Ducich,,24,2500,real estate
+TB-21520120,Tracy Blumstein,,18,90,car or other
+MW-1822027,Mitch Webber,0,24,90,real estate
+RH-960038,Rob Haberlin,,27,2500,real estate
+SB-202907,Sean Braxton,,10,90,real estate
+MN-1793527,Michael Nguyen,,15,900,car or other
+RP-19390102,Resi Pölking,0,18,90,car or other
+LB-1679558,Laurel Beltran,,12,90,life insurance
+PK-1891082,Paul Knutson,,36,,life insurance
+LS-1694559,Linda Southworth,0,12,90,life insurance
+JK-1573064,Joe Kamberova,,36,900,car or other
+AS-102401404,Alan Shonely,500,6,90,real estate
+BT-113957,Bill Tyler,0,24,490,real estate
+AS-102401406,Alan Shonely,,15,,real estate
+MC-1810045,Mick Crebagga,0,12,90,life insurance
+NZ-18565139,Nick Zandusky,10,11,2500,car or other
+NF-18385124,Natalie Fritzler,0,18,90,
+SS-2041091,Shahid Shariari,,36,90,car or other
+EH-1394564,Eric Hoffmann,0,9,90,
+CS-1184511,Cari Sayre,,30,,life insurance
+JM-161957,Justin MacKendrick,,24,90,car or other
+MG-1789027,Michael Granlund,,24,,
+PL-1892545,Paul Lucas,10,30,,real estate
+MA-1799548,Michelle Arnett,,18,90,car or other
+SP-2065059,Stephanie Phelps,10,24,90,car or other
+RW-1969058,Robert Waldorf,0,12,90,life insurance
+AH-1007559,Adam Hart,10,24,,
+JH-1543082,Jennifer Halladay,10,48,90,car or other
+PO-1885045,Patrick O'Brill,,36,90,car or other
+KB-1631545,Karl Braun,,28,,real estate
+ZC-2191064,Zuschuss Carroll,0,27,90,car or other
+ML-1775545,Max Ludwig,,15,90,car or other
+CD-1279045,Cynthia Delaney,0,12,90,life insurance
+PC-18745102,Pamela Coakley,10,36,90,car or other
+KE-1642018,Katrina Edelman,,18,,life insurance
+EM-420086,Evan Minnotte,,36,,car or other
+DW-134807,Dianna Wilson,0,21,90,life insurance
+SC-10680134,Steve Carroll,,12,2500,life insurance
+JG-1580527,John Grady,,15,,real estate
+PV-898522,Paul Van Hugh,0,18,90,car or other
+AS-24023,Alan Shonely,0,16,90,life insurance
+RS-197658,Roland Schwarz,,20,,real estate
+SH-199757,Sally Hughsby,,36,,
+SB-201707,Sarah Bern,,15,,real estate
+JF-541549,Jennifer Ferguson,,24,90,real estate
+DK-1298518,Darren Koutras,0,12,90,real estate
+GA-1472527,Guy Armstrong,0,21,,real estate
+XP-218657,Xylona Preis,10,36,,car or other
+GT-475533,Guy Thornton,,15,90,life insurance
+HA-1492016,Helen Andreada,10,9,,real estate
+JF-15295139,Jason Fortune-,,36,90,real estate
+PR-1888082,Patrick Ryan,10,24,90,car or other
+AW-1084048,Anthony Witt,10,30,,car or other
+AG-1067555,Anna Gayman,,11,2500,real estate
+CJ-1187527,Carl Jackson,0,24,90,life insurance
+AG-1076558,Anthony Garverick,10,48,90,life insurance
+SE-2011048,Sanjit Engle,,10,490,real estate
+DM-130157,Darrin Martin,0,6,90,
+AB-102551404,Alejandro Ballentine,0,24,490,life insurance
+VP-2173026,Victor Preis,0,24,90,life insurance
+JB-1604526,Julia Barnett,,18,90,
+MD-1786059,Michael Dominguez,,48,900,car or other
+JM-558069,Jill Matthias,0,9,90,life insurance
+SC-203057,Sean Christensen,10,12,90,life insurance
+JO-1528058,Jas O'Carroll,0,24,90,life insurance
+AB-25523,Alejandro Ballentine,0,12,90,car or other
+EM-1414039,Eugene Moren,0,18,90,life insurance
+PO-1918011,Philisse Overcash,0,48,90,
+AB-102551406,Alejandro Ballentine,,30,,car or other
+AB-102551402,Alejandro Ballentine,0,12,90,real estate
+MG-1769527,Maureen Gnade,0,24,90,life insurance
+AP-1072092,Anne Pryor,10,9,90,car or other
+SE-2011064,Sanjit Engle,,9,90,real estate
+JK-1532582,Jason Klamczynski,,12,900,life insurance
+RK-1930082,Ralph Kennedy,0,12,90,car or other
+EJ-1415531,Eva Jacobs,10,30,490,
+JB-1600064,Joy Bell-,500,9,90,real estate
+AF-1087027,Art Ferguson,10,6,90,car or other
+AF-1087058,Art Ferguson,10,60,90,
+GM-144551,Gary Mitchum,,24,,life insurance
+TP-21130144,Theone Pippenger,,12,,life insurance
+MT-1781527,Meg Tillman,,10,90,real estate
+SM-209057,Susan MacKendrick,,24,,car or other
+DW-135407,Don Weiss,,4,90,real estate
+BO-142579,Bobby Odegard,0,15,90,life insurance
+AB-102551408,Alejandro Ballentine,10,48,900,car or other
+CM-1193518,Carlos Meador,0,24,900,
+AW-10930139,Arthur Wiediger,,12,,
+DK-1283536,Damala Kotsonis,,18,90,life insurance
+CM-122357,Chris McAfee,,24,490,car or other
+AF-1088564,Art Foster,10,18,90,car or other
+MP-1747048,Mark Packer,0,36,90,car or other
+OT-18730120,Olvera Toch,10,24,900,car or other
+ON-1871582,Odella Nelson,,36,90,car or other
+JP-1546059,Jennifer Patt,0,12,90,life insurance
+AS-102407,Alan Shonely,0,24,2500,life insurance
+TB-11625134,Trudy Brown,500,30,,life insurance
+JP-5520129,Jeremy Pistek,10,9,90,real estate
+DB-1340582,Denny Blanton,0,28,90,car or other
+JD-161507,Justin Deggeller,10,24,490,
+BD-1177045,Bryan Davis,,6,90,real estate
+BD-116357,Brian Derr,10,21,90,life insurance
+GR-1456045,Georgia Rosenberg,,15,,
+CC-2370108,Christopher Conant,,24,900,car or other
+GM-1469527,Greg Maxwell,10,6,90,life insurance
+PO-8850117,Patrick O'Brill,10,30,,car or other
+ND-18370139,Natalie DeCherney,10,27,900,life insurance
+TZ-2144527,Tom Zandusky,,15,90,car or other
+BT-1139564,Bill Tyler,,42,,life insurance
+JE-1547566,Jeremy Ellison,0,11,90,real estate
+RB-1943559,Richard Bierner,10,15,490,real estate
+AI-108557,Arianne Irving,,24,90,life insurance
+MH-1744027,Mark Haberlin,0,24,90,
+DB-13210120,Dean Braden,0,60,90,
+NM-1852082,Neoma Murray,,30,90,car or other
+JE-616574,Justin Ellison,500,24,900,car or other
+Dl-13600130,Dorris liebe,10,6,90,real estate
+AH-1021051,Alan Hwang,10,18,,life insurance
+DS-1318093,David Smith,,24,90,car or other
+DV-1304582,Darrin Van Huff,10,15,490,life insurance
+DK-1315031,David Kendrick,10,30,90,life insurance
+AC-10660144,Anna Chung,,48,90,car or other
+CC-1243082,Chuck Clark,500,21,490,car or other
+NG-1835531,Nat Gilpin,0,36,90,life insurance
+KE-1642031,Katrina Edelman,,24,90,life insurance
+SJ-202158,Sarah Jordon,0,15,90,life insurance
+AR-1082545,Anthony Rawles,500,42,90,life insurance
+BM-1178558,Bryan Mills,,13,490,real estate
+JH-1582045,John Huston,0,24,90,
+AA-1048059,Andrew Allen,10,24,90,life insurance
+RC-19825139,Roy Collins,,12,,life insurance
+MO-17800113,Meg O'Connel,,15,490,car or other
+JD-1601551,Joy Daniels,0,18,,car or other
+MY-182957,Muhammed Yedwab,0,36,90,life insurance
+EH-14005139,Erica Hernandez,,12,,car or other
+AF-1088582,Art Foster,,12,90,real estate
+JH-5910117,Jonathan Howell,0,30,90,life insurance
+SC-10695117,Steve Chapman,,12,90,car or other
+DJ-1342064,Denny Joy,0,45,90,
+AG-102701402,Alejandro Grove,10,45,490,car or other
